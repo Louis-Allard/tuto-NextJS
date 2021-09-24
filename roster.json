@@ -1,0 +1,1657 @@
+[{
+    "_id": {
+      "id": "001",
+      "nom": "Ashrah",
+      "camp": "Bon",
+      "race": "Démon",
+      "clan":  "",
+      "origine": "NetherRealm",
+      "residence": "Edenia"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "",
+        "game2": "",
+        "game3": "",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "ingame1.jpg",
+        "ingame2": "ingame2.jpg",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p><b>ASHRAH</b>, un démon du NetherRealm, appartenait à l'origine à la Confrérie de l'Ombre, crée par Quan Chi dans le but de servir le Dieu Ancien déchu : Shinnok. Un jour, en refusant d'obéir à un ordre de son supérieur, elle s'attira les foudres du clan et Quan Chi envoya sa soeur la tuer. Durant sa fugue, <b>Ashrah</b> trouva une épée divine appelée <i>Kriss</i> qu'elle apprit à manier, l'utilisant pour éliminer les démons du NetherRealm. A chaque victime, son épée purifiait un peu plus son âme, jusqu'à ce qu'elle supprime toute méchanceté en elle.</p><p>Ce qu'elle ignorait c'est que son épée s'avérait être la célèbre Datusha : l'arme anti-vampires. Cette épée corrompt l'esprit de son porteur, lui faisant croire que ses meurtres répétés répondent à une juste cause, un simple prétexte pour continuer le génocide de vampires et de démons. Par le passé, <b>Ashrah</b> rencontra Shujinko, à qui elle apprit ses techniques anti-démons. Croisant un jour la route d'Ermac et croyant qu'il était un démon, <b>Ashrah</b> le défia, mais perdit le combat.</p><p>Quelques années plus tard, <b>Ashrah</b> continua son périple à la recherche de démons à éliminer, et sa quête l'amena à chasser Noob Saibot, l'un des démons les plus puissants du NetherRealm. <b>Ashrah</b> parvint à le retrouver et à le battre, complétant ainsi son ascension vers la purification. Elle put donc s'enfuir du NetherRealm, mais laissa par inadvertance son épée derrière elle. Quelques temps plus tard, c'est Shujinko qui lui rapporta sur Edenia.</p><p><b>Ashrah</b> se retrouva dans un monde céleste, entourée de créatures de lumière. Ces dernières firent d'<b>Ashrah</b> l'élue, la détentrice du Kriss, qui purifiera le monde en exterminant les entités du mal. Après avoir porté serment, la jeune femme se rendit sur Vaeternus, le Royaume des Vampires. Elle en extermina des centaines, jusqu'à ce que Nitara, mise au courant par ses ancêtres, se dressa contre elle et la provoqua en duel. La Vampire remporta le combat, forçant <b>Ashrah</b> à battre en retraite sur Edenia, où elle prit connaissance de l'existence de Blaze, et surtout de son pouvoir permettant à son détenteur d'obtenir la toute puissance. <b>Ashrah</b> décidait donc de rejoindre les Forces de la Lumière, opposées aux Forces de l'Ombre, dont Nitara faisait partie. Les 2 femmes s'affrontèrent au pied de la pyramide d'Argus, mais moururent toutes les 2.</p>",
+        "alternative": ""
+    },
+    "_techniques": {
+        "style1": "Choyu Jaio",
+        "style2": "Ba Gua",
+        "style3": ""
+    },
+    "_armes": {
+        "arme1": "Kriss",
+        "arme2": "Datusha",
+        "arme3": ""
+    },
+    "_infos": {
+        "info1": "Le Kanji sur le chapeau d'Ashrah signifie <i>Démon</i> ou <i>Fantôme</i>.",
+        "info2": "En arabe, <b>Ashrah</b> signifie <i>Dix</i>",
+        "info3": ""
+    }
+  },
+  {
+    "_id": {
+      "id": "002",
+      "nom": "Baraka",
+      "camp": "Mal",
+      "race": "Tarkatan",
+      "clan":  "",
+      "origine": "OutWorld",
+      "residence": "OutWorld"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "game1.png",
+        "game2": "game2.png",
+        "game3": "game3.png",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "ingame1.png",
+        "ingame2": "",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p><b>BARAKA</b> est un Tarkatan, une espèce née d’un croisement entre les démons du NetherRealm et les habitants d'OutWorld. Comme tous ceux de sa race, il possède des dents acérées et des lames extensibles sur ses avant-bras. Durant le second Mortal Kombat se déroulant dans l’OutWorld, <b><b>Baraka</b></b> dirigea l’attentat sur les Moines Shaolins, obligeant Liu Kang à participer au tournoi. Désirant régner sur l'Outworld, <b>Baraka</b> s’allia à Mileena et tenta de tuer son maître Shao Kahn, sans succès. Mileena fut tuée, et <b>Baraka</b> exilé dans les bas-fonds de l’OutWorld. Cependant, il profita de la défaite de Kahn face à Liu Kang pour s'échapper.</p><p>Il fit la connaissance de Quan Chi, qui lui proposa de régner avec lui sur OutWorld, à condition qu'il rejoigne les forces de Shinnok. Il accepta l’offre et s’engagea dans la bataille contre Raiden et ses alliés. Malheureusement pour lui, le sorcier fut vaincu, annihilant donc toutes ses chances de règne</p><p>Durant l’ascension d’Onaga, <b>Baraka</b> lui jura allégeance et recruta Mileena (ressuscitée grâce à Shinnok) pour l’épauler. Elle prit l’apparence de Kitana afin de leurrer les troupes d’Edenia qui combattaient les armées de l’OutWorld. Mais pour ne pas éveiller les soupçons, Mileena donna le contrôle de l’armée à Bo'Rai Cho, qui élimina un grand nombre de Tarkatans. Bien mal lui en a pris : soupçonnant Mileena de les avoir aidés, <b>Baraka</b> prit cela pour une trahison, et jura de l’éliminer. Pour régler leurs comptes, ils prirent rendez-vous dans le repaire du Scarabée. Mais <b>Baraka</b> y envoya un autre Tarkatan se faire tuer à sa place.</p><p>On peut supposer que durant l’Armageddon, <b>Baraka</b> et Mileena faisant tous les deux partie des Forces de l’Ombre, ils se soient réconciliés. <b>Baraka</b> fut tué par Kung Lao durant la bataille, au pied de la pyramide d'Argus.</p>",
+        "alternative": "<p><b>Réalité alternative (Mortal Kombat 9) :</b></p><p>Fidèle allié de Shao Kahn, <b>Baraka</b> participa au Mortal Kombat pour y défendre les couleurs de l'OutWorld. Mais il perdit son 1er match face à Johnny Cage. Il fut ensuite chargé, avec Sheeva, d'éliminer Cyrax, accusé par Shang Tsung d'avoir parlé à Raiden et donc d'avoir sans doute changé de camp. Mais le Tarkatan échoua dans sa mission.</p><p>Après la victoire de Liu Kang, <b>Baraka</b> emmena Shang Tsung devant Shao Kahn afin qu'il soit puni pour sa défaite. Mais le sorcier fut épargné, et <b>Baraka</b> envoyé sur EarthRealm, à l'académie Wu Shi. Avec des hordes de Tarkatans sous ses ordres, il assassina la quasi-totalité des moines présents sur les lieux, et captura Sonya, obligeant ainsi les alliés de Raiden à se rendre sur OutWorld pour y disputer un nouveau Mortal Kombat.</p><p>Dans ce 2nd tournoi, <b>Baraka</b> fut le 1er à combattre, face à Jax cette fois-ci. S'étant fait éliminer, il fut chargé de surveiller Kitana, retenue captive dans la tour de Shao Kahn. Venue pour elle, Jade neutralisa le Tarkatan et libéra son amie.</p><p>La fin du tournoi vit la victoire de Liu Kang, et par conséquent la défaite de Shao Kahn, apparemment tué par le shaolin. La question de sa succession se posait donc logiquement sur OutWorld, et <b>Baraka</b> proposa que ce soit Mileena qui hérite du trône. Mais Kahn avait survécu, guéri de ses blessures par Quan Chi. Grâce à la résurrection de Sindel, il réussit à envahir l'EarthRealm, mais fut immédiatement stoppé par Raiden et les Dieux Anciens, qui se débarrassèrent de lui. <b>Baraka</b> se retrouva donc sans maître, libre de faire ce qu'il souhaite.</p>"
+    },
+    "_techniques": {
+        "style1": "Silat",
+        "style2": "Hung Gar",
+        "style3": ""
+        },
+    "_armes": {
+        "arme1": "lames rétractables",
+        "arme2": "faux",
+        "arme3": ""
+    },
+    "_infos": {
+        "info1": "Lors de la motion-capture de Mortal Kombat 2, les développeurs utilisèrent un masque de Nosferatu peint en blanc et des faux ongles pour créer le visage de <b>Baraka</b>. L'idée de ses lames rétractables serait inspirée directement de Wolverine des X-Men.",
+        "info2": "",
+        "info3": ""
+    }
+  },
+  {
+    "_id": {
+      "id": "003",
+      "nom": "Blaze",
+      "camp": "Neutre",
+      "race": "Elemental",
+      "clan":  "",
+      "origine": "Edenia",
+      "residence": "Edenia"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "game1.png",
+        "game2": "game2.png",
+        "game3": "",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "ingame1.png",
+        "ingame2": "ingame2.png",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p><b>BLAZE</b> est un élémental de feu crée par Délia dans le but de surveiller la puissance des guerriers du Mortal Kombat. Si leur nombre et leur force devenait trop important, une catastrophe se produirait et <b>Blaze</b> devrait alors réveiller Taven et Daegon, les fils d'Argus, afin de prévenir l'Armageddon. Malheureusement, <b>Blaze</b> fut capturé par les partisans d'Onaga et rendu à l'état d'esclave grâce à un puissant sort. Sa nouvelle mission : surveiller l'oeuf du Roi Dragon jusqu'à son éclosion, synonyme de résurrection d'Onaga.</p><p>Lorsque Reptile s’introduisit dans la chambre d’incubation et vit l’œuf, ce dernier éclot et son énergie traversa le Saurien, qui se changea en Onaga. Cette éclosion libéra par la même occasion <b>Blaze</b> de sa malédiction, et il prit conscience de la durée de son enfermement. Pendant son « absence », le nombre des combattants grossit considérablement et l’Armageddon ne fut jamais aussi proche.</p><p><b>Blaze</b> découvrit que Daegon lui aussi fut réveillé trop tôt, et qu’il devint corrompu par les hommes. Il ordonna alors à Orin le Dragon de réveiller le 2ème fils d’Argus : Taven, afin qu’il puisse démarrer sa quête. <b>Blaze</b> préparait aussi un plan visant à amener tous les combattants à un endroit précis, afin qu’ils soient tous affectés par l’une des malédictions crées par Argus et Delia : annuler leurs pouvoirs ou les tuer tous. Alors que Taven et Daegon se retrouvèrent au NetherRealm, <b>Blaze</b> fit son apparition et les amena sur Edenia pour qu’ils puissent s'affronter comme le voulait la prophétie.</p><p>aven sortit victorieux de son frère mais fut devancé par quelqu'un d'autre au moment d'affronter <b>Blaze</b> au sommet de la Pyramide : Shao Kahn. En tuant l'élémental, l’empereur d’OutWorld absorba l'essence de <b>Blaze</b> et n’eut aucun mal à éliminer tous les autres combattants, Raiden y compris. Taven constata donc avec horreur que l’Armageddon ne fut pas empêchée.</p>",
+        "alternative": ""
+    },
+    "_techniques": {
+        "style1": "Hapkido",
+        "style2": "Jeet Kune Do",
+        "style3": "Xing Yi"
+    },
+    "_armes": {
+        "arme1": "flammes",
+        "arme2": "",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "La légende veut que <b>Blaze</b>, le personnage le plus puissant dans l’univers de Mortal Kombat et le boss ultime de toute la saga, fasse sa première apparition dans Mortal Kombat 2, au fond du stage The Pit 2 (affrontant un Liu Kang vert que les fans appelèrent Hornbunckle).",
+        "info2": "<b>Blaze</b> est le personnage le plus grand (3,65 m !) parmi les 64 de Mortal Kombat Armageddon.",
+        "info3": ""
+    }
+  },  
+  {
+    "_id": {
+      "id": "004",
+      "nom": "BO' RAI CHO",
+      "camp": "Bien",
+      "race": "OutWorlder / Humain",
+      "clan":  "",
+      "origine": "EarthRealm",
+      "residence": "OutWorld"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "game1.png",
+        "game2": "game2.png",
+        "game3": "",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "ingame1.jpg",
+        "ingame2": "ingame2.jpg",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p>Originaire d'EarthRealm, le Grand Maître <b>BO' RAI CHO</b> est réputé dans le monde des arts martiaux. Par le passé, il entraîna le jeune Shujinko, ou encore les célèbres Muso Gonnosuke et Kung Lao, malheureusement tous deux tués par Shang Tsung dans le Mortal Kombat. ,<b>Bo' Rai Cho</b> passe le plus clair de son temps dans l'OutWorld, où il y possède une école spécialisée dans la formation de jeunes combattants. Un jour, conseillé par Raiden, il accueillit un jeune moine shaolin nommé Liu Kang, présenté comme le nouvel espoir de l'EarthRealm.</p><p><b>Bo' Rai Cho</b> entraîna son nouveau protégé dans le but d'en faire devenir un grand combattant, ce qu'il prouva par la suite, sauvant l'EarthRealm à 4 reprises des griffes de monstres tels que Shao Kahn ou Shinnok. Liu Kang était devenu une légende, un guerrier invincible et humble à la fois, la fierté de <b>Bo' Rai Cho</b>. C'est donc avec une grande tristesse qu'il apprit la mort du shaolin des mains de Shang Tsung, épaulé par Quan Chi. Cette alliance mortelle eut raison de Liu Kang, et déclencha chez <b>Bo' Rai Cho</b> un désir de vengeance. Il prit alors Kung Lao, le meilleur ami de Liu Kang, sous son aile afin de le former dans l'espoir de détruire les 2 sorciers. Malheureusement Kung Lao, comme les autres guerriers de Raiden, périrent en tentant d'accéder au Palais de Shang Tsung. <b>Bo' Rai Cho</b> s'y rendit alors de lui même, ne réussissant qu'à sauver Li Mei des griffes des 2 sorcie</p><p>L'alliance mortelle apparemment dissoute, tout comme Raiden, une nouvelle menace fit son apparition : Onaga, le Roi Dragon, était ressuscité ! Ce dernier, désirant étendre son pouvoir sur les Royaumes, donna à Mileena le commandement des armées d'Edenia, sous l'apparence de Kitana. <b>Bo' Rai Cho</b>, nommé général par elle, prit Li Mei comme élève et les 2 menèrent la bataille face aux Tarkatans sur OutWorld.</p><p>La guerre remportée, <b>Bo' Rai Cho</b> participa à l'ultime bataille opposant les Forces de l'Ombre (menées par Quan Chi), et les Forces de la Lumière (menées par Johnny Cage). Il fut tué durant son ascension de la Pyramide d'Argus.</p>",
+        "alternative": ""
+    },
+    "_techniques": {
+        "style1": "Poing ivre",
+        "style2": "Mi Zong",
+        "style3": "Sumo"
+    },
+    "_armes": {
+        "arme1": "Jojutsu",
+        "arme2": "",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "Le mot espagnol <i>borracho</i> signifie <i>bourré</i>. Pas étonnant que <b>Bo' Rai Cho</b> ait un penchant pour la boisson...",
+        "info2": "L'ending de Shang Tsung dans MK 2011 révèle que <b>Bo' Rai Cho</b> connait une technique permettant de vaincre Liu Kang...",
+        "info3": "<b>Bo' Rai Cho</b> apparaît dans la base de données de Cyber Sub-Zero, dans Mortal Kombat 9."
+    }
+  },
+  {
+    "_id": {
+      "id": "005",
+      "nom": "Cyrax",
+      "camp": "Mal puis Bien",
+      "race": "Cyborg",
+      "clan":  "Lin Kuei",
+      "origine": "EarthRealm",
+      "residence": "EarthRealm"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "game1.png",
+        "game2": "game2.png",
+        "game3": "",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "ingame1.jpg",
+        "ingame2": "",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p>Durant l’invasion de Shao Kahn sur l'EarthRealm, le Lin Kuei, un clan de ninjas assassins, débuta une campagne de cybernétisation de ses membres. Le premier volontaire fut Sektor (nom de code LK-9T9), suivi par <b>CYRAX</b> (nom de code LK-4D4). Sub-Zero et Smoke, deux autres membres du clan mais aussi amis dans la vie, furent désignés comme les prochains. Prenant cette transformation comme un destin pire que la mort, les 2 hommes s’enfuirent. Malheureusement, Smoke fut capturé et changé lui aussi en cyborg (LK-7T2). Sub-Zero s’en était sorti, mais fut banni du Lin Kuei pour trahison.</p><p>Durant la bataille contre les forces de Kahn, Sub-Zero vaincut <b>Cyrax</b> et le reprogramma afin qu’il détruise l’empereur. Devancé par Liu Kang et les siens, <b>Cyrax</b> se retrouvait sans objectif, et errait dans le désert en attente d’une autre mission.</p><p>Il fut retrouvé par Sektor, mais semblait différent d’avant. En effet, lors de la défaite de Shinnok, Jax et Sonya l'avaient aidé à retrouver la mémoire.</p><p>Pour les remercier, il les rejoignait à l’OIA : l’OutWorld Investigation Agency en tant qu’espion. Pendant que l’Alliance Mortelle (Shang Tsung et Quan Chi) préparait son attaque, <b>Cyrax</b> croisa la route de Drahmin et Moloch, échappés du NetherRealm en même temps que Scorpion et Quan Chi. <b>Cyrax</b> réussit à vaincre les 2 Oni, et poursuivit sa route. C’est alors que Reptile, accompagné de Nitara, l’attaqua. Son acide perturba sa console portative qui lui permettait de rejoindre l'EarthRealm. Après avoir vaincu Reptile, la vampire lui proposa un marché : elle l’aiderait à retourner chez lui si il l’aidait à retrouver un artefact. Leur périple les conduisait dans une chambre souterraine remplie de lave, que seul <b>Cyrax</b> pouvait traverser. Lorsqu’elle obtint l’orbe, Nitara tint sa promesse, et renvoya le cyborg sur EarthRealm.</p><p>Durant l’Armageddon, <b>Cyrax</b> rejoignit les Forces de la Lumière dans la bataille finale, mais fut tué.</p>",
+        "alternative": "<p><b>Réalité alternative (Mortal Kombat 9) :</b></p><p>Bien qu'étant basé sur EarthRealm, le Lin Kuei (un clan d'assassins) rejoignit les rangs de l'OutWorld sur invitation de Shang Tsung. Le clan envoya ses meilleurs ninjas pour participer au tournoi, tels que Sub-Zero (Bi Han), Sektor et <b>Cyrax</b>. Mais ce dernier s'inquiétait pour l'avenir de son clan. En effet, le projet visant à cybernétiser tous les ninjas du Lin Kuei préoccupait <b>Cyrax</b>, ce que Raiden remarqua. Le Dieu se rendit donc à la rencontre du ninja et lui fit part de sa déception de voir des humains trahir leur propre Royaume, alors qu'il aurait justement bien besoin d'aide. Arguant qu'il continuait à rester fidèle à son Grand Maître, <b>Cyrax</b> s'en alla avec des doutes poursuivre sa mission : éliminer Johnny Cage. En chemin, Sheeva et Baraka se dressèrent devant <b>Cyrax</b>, et lui annoncèrent qu'en discutant avec Raiden, il avait trahi Shang Tsung, et ne méritait donc plus de vivre. Le ninja neutralisa la Shokan et le Tarkatan et poursuivit sa route, bien décidé à s'expliquer avec le sorcier.</p><p>A peine arrivé, <b>Cyrax</b> fut défendu par Sektor devant Shang Tsung, lui garantissant la loyauté de son compère. Pour le tester, le sorcier convoqua donc Johnny Cage et <b>Cyrax</b> pour le prochain combat. Le ninja en sortit vainqueur mais au moment d'achever son adversaire, il décida de l'épargner, à la grande déception de Sektor, qui alla lui parler. <b>Cyrax</b> lui annonça qu'il refusait de se faire changer en robot car il tenait à son libre arbitre. Les 2 hommes se disputèrent et le combat éclata, voyant <b>Cyrax</b> l'emporter.</p><p>Lors du 2nd tournoi, <b>Cyrax</b> réapparut devant Sub-Zero (Kuai Lang, venu venger Bi Han, son aîné), qui fut surpris en le voyant. En effet, tout comme Sektor, il s'était fait changer en robot, et était de nouveau fidèle à l'OutWorld. Bien qu'étant désolé pour ce qui était arrivé à son ami, le ninja le neutralisa et poursuivit son chemin. Plus tard, tandis que Sub-Zero savourait sa victoire sur Scorpion, <b>Cyrax</b>, Sektor et d'autres robots du Lin Kuei capturèrent le ninja et l'emmenèrent se faire cybernétiser. Raiden et Smoke, son meilleur ami, assistèrent impuissants à la scène.</p><p><b>Cyrax</b> participa plus tard aux côtés de Sindel à l'attaque qui extermina la plupart des héros de l'EarthRealm, mais fut vaincu par Nightwolf. Il ne fut plus revu par la suite.</p>"
+    },
+    "_techniques": {
+        "style1": "Ninjitsu",
+        "style2": "Sambo",
+        "style3": ""
+    },
+    "_armes": {
+        "arme1": "Sabre laser",
+        "arme2": "",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "En référence à leurs couleurs respectives, <b>Cyrax</b> et Sektor étaient surnommés Mustard (Moutarde) et Ketchup lors du développement de MK3.",
+        "info2": "<b>Cyrax</b> peut être vu enseveli à l'arrière plan du stage <i>The Desert</i> dans Mortal Kombat 3, ainsi que dans le même stage, dans Mortal Kombat 9.",
+        "info3": ""
+    }
+  },
+  {
+    "_id": {
+      "id": "006",
+      "nom": "Chamelon",
+      "camp": "Neutre",
+      "race": "Saurien",
+      "clan":  "",
+      "origine": "Zaterra",
+      "residence": "OutWorld"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "",
+        "game2": "",
+        "game3": "",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "",
+        "ingame2": "",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p>On a longtemps cru que Reptile était le dernier survivant de la race des Sauriens, originaires de Zaterra. Mais il s'avérait qu'au moins un autre d'entre eux existait encore, tapi dans l'ombre. En effet, <b>CHAMELEON</b> est aussi un Saurien, donc capable de se rendre invisible. C'est cette faculté qui rendait son existence impossible à affirmer, car il demeurait caché lors de tous les évènements majeurs, de la 1ère victoire de Liu Kang jusqu'au début de l'Armageddon. En simple spectateur, <b>Chameleon</b> attendait tout simplement le moment où il surgirait de l'ombre.</p><p>Lorsqu'il prit connaissance de la prophétie de l'Armageddon, <b>Chameleon</b> décida de se rendre sur la pyramide d'Argus afin de vaincre Blaze et d'ainsi réclamer son pouvoir, lui permettant alors de restaurer sa race éteinte depuis des millénaires. Mais <b>Chameleon</b> périt comme tous les autres combattants lors de cette bataille.</p>",
+        "alternative": ""
+    },
+    "_techniques": {
+        "style1": "Crane",
+        "style2": "",
+        "style3": ""
+    },
+    "_armes": {
+        "arme1": "Epée Ninja ",
+        "arme2": "",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "",
+        "info2": "",
+        "info3": ""
+    }
+  },
+  {
+    "_id": {
+      "id": "007",
+      "nom": "Daegon",
+      "camp": "Mal",
+      "race": "Demi-Dieu",
+      "clan":  "Dragon rouge",
+      "origine": "Edenia",
+      "residence": "EarthRealm"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "",
+        "game2": "",
+        "game3": "",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "ingame1.png",
+        "ingame2": "ingame2.jpg",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p>Argus, le Dieu Protecteur d'Edenia, eut un jour 2 enfants : Taven et <b>DAEGON</b>. Leur mère : Délia, une prêtresse Edenianne, avait des dons de voyance. Mais l'une de ses visions fut pour le moins troublante : une terrible guerre causée par un trop grand nombre de puissants guerriers éclatera, causant la fin des Royaumes. Pour remédier à cela, elle créa Blaze, qui était chargé de surveiller ces combattants. Leur sort fit cependant débat, Argus voulait leur mort tandis que Delia voulait simplement l'annulation de leurs pouvoirs. Pour se mettre d'accord, ils décidèrent de mettre en compétition leur 2 fils, le sort des combattants dépendant ainsi du fils qui sortirait victorieux de Blaze.</p><p>Taven et <b>Daegon</b> furent mis en hibernation, cachés sur EarthRealm et surveillés chacun par un Dragon : Orin pour Taven, Caro pour <b>Daegon</b>. Les 2 dragons, liés télépathiquement avec Blaze, avaient pour mission de réveiller les frères une fois que la menace de l'Armageddon surgirait. Lorsque Blaze fut capturé par les partisans d'Onaga, le lien télépathique avec Caro fut rompu et ce dernier réveilla par erreur <b>Daegon</b>, qui se lança dans sa quête. Secoué par son réveil prématuré, il partit à la rencontre de ses parents afin de découvrir la vraie nature de cette quête. Manipulé par Shinnok, à qui il était parti demander de l'aide, <b>Daegon</b> tua ses parents, croyant qu'ils favorisaient Taven.</p><p>Après cela, <b>Daegon</b> forma le Dragon Rouge, dont le but premier fut la recherche de Blaze. En utilisant l'ADN de Caro, <b>Daegon</b> créa une nouvelle espèce de guerriers mi-dragon mi-homme. Il utilisa aussi les pouvoirs de son dragon afin de créer des portails inter-royaumes, lui facilitant ainsi la tâche. La quête voulait que chacun des frères aurait en sa possession une arme (donnée par leur père) ainsi qu'une armure (donnée par leur mère). Cependant, lorsque <b>Daegon</b> trouva la localisation de ces armes, il les prit toutes les 2.</p><p>Lors du réveil de Taven, <b>Daegon</b> lança ses troupes à sa recherche. Les 2 frères se traquèrent l'un l'autre, les amenant au NetherRealm, où Shinnok mentit à Taven en lui disant que <b>Daegon</b> venait de partir, alors qu'il se trouvait sur place. Finalement, la quête atteint son dénouement lorsque Taven et <b>Daegon</b> se firent face et que Blaze les sépara avant qu'ils engagent leur combat. L'élémental les amena sur Edenia et leur annonça qu'ils devaient se battre ici, telle que le voulait la prophétie, et que le vainqueur l'affronterait sur la Pyramide. Taven sortit victorieux du combat et devint le nouveau Protecteur d'Edenia, <b>Daegon</b> fut puni par Argus pour ses actes.</p><p>Mais tandis que les 2 frères étaient occupés dans leur combat, Shao Kahn en avait profité pour se hisser au sommet de la Pyramide. L'empereur d'OutWorld tua Blaze et absorba sa puissance, écrasant tout le monde sur son passage. Sa dernière victime : Raiden, le Dieu du Tonnerre.</p><p>L'Armageddon eut donc quand même lieu, la quête fut un échec.</p>",
+        "alternative": ""
+    },
+    "_techniques": {
+        "style1": "Fu Jow Pai",
+        "style2": "",
+        "style3": ""
+    },
+    "_armes": {
+        "arme1": "DrakeSword",
+        "arme2": "",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "<b>Daegon</b> est peut être inspiré du nom de la divinité Dagon.",
+        "info2": "Avant la sortie de Mortal Kombat : Armageddon, Ed boon avait surnommé <b>Daegon<b> <i>Doug</i>.",
+        "info3": "<b>Daegon</b> apparaît dans Mortal Kombat 9, combattant en arrière plan du stage <i>The Pit 2</i>."
+    }
+  }, 
+  {
+    "_id": {
+      "id": "008",
+      "nom": "Dairou",
+      "camp": "Neutre",
+      "race": "Seidan",
+      "clan":  "",
+      "origine": "OrderRealm",
+      "residence": "OrderRealm"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "",
+        "game2": "",
+        "game3": "",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "",
+        "ingame2": "",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p><b>DAIROU</b> était un ancien garde du Royaume de Seido, aussi appelé OrderRealm. Tout comme Hotaru, il était un homme respectable et loyal jusqu'à ce qu'il finisse en prison pour avoir assassiné l'homme qu'il crut responsable de la mort de sa famille. Libéré par Darrius, le chef de la Résistance, <b>Dairou</b> se sentait légitimement redevable. Pour le remercier, il rejoignit son clan, tout en ignorant que son nouveau chef était également celui qui donna l'ordre d'assassiner sa famille. <b>Dairou</b> était devenu un mercenaire, et en échange d'une belle prime offerte par Damashi (en réalité Onaga), il aida Shujinko à sortir lui aussi de prison, afin qu'il poursuive sa quête. La première mission de <b>Dairou</b> en tant que membre de la Résistance fut pour le moins troublante : voler la constitution de Seido et tuer Hotaru, son ancien camarade. </p><p>L'issue de sa mission est inconnue, mais la présence d'Hotaru à la bataille de l'Armageddon laisse à penser qu'il échoua. Tout comme sa cible, <b>Dairou</b> rejoignit les Forces de l'Ombre mais fut tué durant son ascension de la Pyramide d'Argus</p>",
+        "alternative": ""
+    },
+    "_techniques": {
+        "style1": "Wing Chun",
+        "style2": "Escrima",
+        "style3": "Mi Zong"
+    },
+    "_armes": {
+        "arme1": "Dao",
+        "arme2": "",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "2 concepts arts déblocables dans MK Deadly Alliance prouvent que Dairou devait y apparaître en tant que samouraï aux ordres de Shang Tsung.",
+        "info2": "",
+        "info3": ""
+    }
+  },
+  {
+    "_id": {
+      "id": "009",
+      "nom": "Darrius",
+      "camp": "Neutre",
+      "race": "Seidan",
+      "clan":  "Résistance de Seido",
+      "origine": "OrderRealm",
+      "residence": "OrderRealm"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "",
+        "game2": "",
+        "game3": "",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "ingame1.png",
+        "ingame2": "",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p>L'OrderRealm, ou Seido, est fondé selon l'ordre et la droiture. Se sentant oppressés par ce système, certains habitants comme <b>DARRIUS</b> fondèrent une résistance. Son but : renverser le Sénat, en utilisant les Lois comme outil de manipulation afin d'acquérir de nouveaux membres. Par exemple : éliminer les familles des membres de la Garde afin qu'ils s'y fassent expulser en voulant se venger, pour les recruter ensuite. Bon nombre de personnes rejoignaient la Résistance, mais pour différents motifs. Comme Havik, originaire du ChaosRealm, qui désirait seulement voir le chaos s'installer dans le Royaume. <b>Darrius</b> engagea aussi Dairou afin qu'il assassine le leader de la Garde de Seido : Hotaru.</p><p>Cependant, cette mission échoua puisqu'Hotaru rejoignit les Forces de l'Ombre durant l'Armageddon. <b>Darrius</b> et Dairou se rendirent également à la Pyramide d'Argus, lieu de la bataille, mais furent tués.</p>",
+        "alternative": ""
+    },
+    "_techniques": {
+        "style1": "Shinto Ryu",
+        "style2": "Leopard",
+        "style3": "Gojo Ryu"
+    },
+    "_armes": {
+        "arme1": "Gants",
+        "arme2": "",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "Le costume alternatif de <b>Darrius</b> dans MK Mystification est inspiré du look de Jim Kelly dans Enter the dragon (1973) et Black Belt Jones (1974).",
+        "info2": "Dans la Krypte, un concept art montre <b>Darrius</b> comme le nouveau chef du Dragon Rouge.",
+        "info3": ""
+    }
+  },
+  {
+    "_id": {
+      "id": "010",
+      "nom": "Havik",
+      "camp": "Neutre",
+      "race": "ChaosRealmer",
+      "clan":  "",
+      "origine": "ChaosRealmer",
+      "residence": "ChaosRealmer"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "",
+        "game2": "",
+        "game3": "",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "",
+        "ingame2": "",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p><b>HAVIK</b> est originaire du ChaosRealm. A l'image de son Royaume natal, il prône le chaos et le désordre, n'hésitant pas à s'allier avec n'importe qui afin d'accomplir ses plans. Adulé chez lui, il était au contraire détesté dans l'OrderRealm, où il s'était fait une réputation de fauteur de trouble. Il s'était même allié à Darrius, le chef de la Résistance, afin de nuire à la Garde de Seido menée par Hotaru, son pire ennemi. Il envoya notamment Shujinko se débarrasser de quelques uns de ces gardes, en échange de quoi il lui apprit ses techniques. Lorsque <b>Havik</b> apprit la résurrection d'Onaga, censée mettre un terme aux <i>éternels rebondissements de la vie</i>, il jura de l'éliminer.</p><p>Il se mettait donc à rechercher des recrues et tomba sur Kabal, mortellement blessé après son combat contre Mavado. Pendant qu'il le soignait, <b>Havik</b> lui proposa de reformer le Dragon Noir, organisation célèbre pour avoir amené le chaos dans l'EarthRealm par le passé. Les 2 hommes trouvèrent un accord et commencèrent leur recrutement en engageant Kira et Kobra. </p><p>ec sa toute nouvelle équipe, <b>Havik</b> avait un plan : amener les guerriers de l'EarthRealm vers la localisation d'Onaga afin qu'ils l'affrontent et l'affaiblissent suffisamment pour lui permettre de l'approcher et d'ainsi arracher son coeur, source de son pouvoir. <b>Havik</b> mit son plan à exécution mais ne parvint jamais à ses fins.</p><p>Plus tard, durant l'Armageddon, <b>Havik</b> combattit aux côtés des Forces de l'Ombre, mais fut tué.</p>",
+        "alternative": ""
+    },
+    "_techniques": {
+        "style1": "Snake",
+        "style2": "Tang Soo Do",
+        "style3": ""
+    },
+    "_armes": {
+        "arme1": "Massue",
+        "arme2": "",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "L'apparence d'<b>Havik</b> devait servir au départ de costume alternatif à Noob Saibot.",
+        "info2": "Si il ne s'était pas appelé <b>Havik</b>, il aurait eu comme nom Skab.",
+        "info3": "<b>Havik</b> apparaît dans Mortal Kombat 9 dans la séquence de fin de Noob Saibot : les 2 concluent un pacte et les habitants du ChaosRealm débarquent dans le NetherRealm pour renverser la Confrérie de l'Ombre ainsi que ses fondateurs, Shinnok et Quan Chi."
+    }
+  },     
+  {
+    "_id": {
+      "id": "011",
+      "nom": "Hotaru",
+      "camp": "Neutre",
+      "race": "Seidan",
+      "clan":  "Garde de Seido",
+      "origine": "OrderRealm",
+      "residence": "OrderRealm"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "",
+        "game2": "",
+        "game3": "",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "",
+        "ingame2": "",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p><b>HOTARU</b> est le général de la Garde de Seido, l'exemple même de la droiture et de la loyauté. Sa fidélité est telle que certains habitants de l'OrderRealm le prenaient pour un fanatique de l'ordre. Engagé autrefois dans la protection de la ville de Lei Chen contre les forces de Shao Kahn, la résurrection d'Onaga changea la donne. En effet, <b>Hotaru</b> vit dans le Roi Dragon l'opportunité d'amener l'ordre dans tous les Royaumes, et il rejoignit donc ses troupes. Il prêta main forte aux Tarkatans lors de leurs nombreuses offensives à travers l'OutWorld, et chassa avec eux les ennemis d'Onaga, tels que Sub-Zero. Pour Onaga, <b>Hotaru</b> se mit à traquer ce dernier afin de le capturer et de le livrer au Roi Dragon.</p><p>Mais dans son dos se tramait autre chose : Darrius, chef de la Résistance à Seido, engagea Dairou, ancien camarade d'<b>Hotaru</b>, pour le tuer. Après avoir entraîné Shujinko pour tenter de se débarrasser de Darrius, <b>Hotaru</b> échappa semble-t'il à l'assassinat car il fut présent lors de l'Armageddon aux côtés des Forces de l'Ombre. Durant l'assaut, <b>Hotaru</b> se trouva en première ligne et fut le premier à tuer un membre des Forces de la Lumière : Li Mei. Mais <b>Hotaru</b> fut cependant tué lui aussi.</p>",
+        "alternative": ""
+    },
+    "_techniques": {
+        "style1": "Ba Shan Fan",
+        "style2": "Pi Gua",
+        "style3": ""
+    },
+    "_armes": {
+        "arme1": "Naginata",
+        "arme2": "",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "Comme Reiko, <b>Hotaru</b> est un prénom féminin au Japon, et signifie <i>luciole</i>.",
+        "info2": "",
+        "info3": ""
+    }
+  },     
+  {
+    "_id": {
+      "id": "012",
+      "nom": "Drahmin",
+      "camp": "Mal",
+      "race": "Oni",
+      "clan":  "",
+      "origine": "OutWorld",
+      "residence": "NetherRealm"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "",
+        "game2": "",
+        "game3": "",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "",
+        "ingame2": "",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p><b>DRAHMIN</b> était autrefois un puissant et impitoyable seigneur d'OutWorld. Pour ses crimes, il fut tué et banni au NetherRealm, où son corps et son âme furent torturées durant une très longue période. Au fil du temps, il sombra de plus en plus dans la folie, jusqu'à perdre totalement son humanité. Il accepta finalement son sort et succomba au pouvoir du NetherRealm. Cependant, il subit quelques changements physiques suite à ces tortures : un bras en fer lui servant de matraque et un masque censé contrôler sa rage et son instinct d'Oni : le Visage de Kun-Lo. Il devenait alors <b>Drahmin</b> : l'Oni Persécuteur.</p><p>Il résidait au 5ème étage du NetherRealm, avec son compatriote Moloch. Les 2 Oni faisaient équipe et recherchaient incessamment de nouvelles âmes à torturer. Après plusieurs siècles, ils furent témoins d'un combat entre Scorpion et Quan Chi. Ils intervinrent et chassèrent le ninja, sauvant par la même occasion le sorcier. Ce dernier, en guise de remerciement, accepta de rendre la liberté à ces 2 sauveurs, qui le conduisirent à une ancienne structure en ruine censée être une ancienne porte vers les autres Royaumes. Quan Chi étudia l'édifice, qui se révélait être un portail désactivé pouvant être utilisé grâce à l'amulette de Shinnok, désormais en sa possession.</p><p>Soudain, Scorpion revint le combattre et dans la confusion, Quan Chi activa le portail qui les téléporta tous les 2, ainsi que <b>Drahmin</b> & Moloch. Les 2 Oni atterrirent dans l'OutWorld, mais les 2 autres furent téléportés vers une destination inconnue. Désormais libres, les 2 Oni partirent à la recherche de Quan Chi, parcourant le Royaume en tuant tout sur leur passage. Exceptés 2 personnes : Cyrax et Li Mei survécurent à leur rencontre face à <b>Drahmin</b> et Moloch. Shang Tsung retrouva les 2 Oni lorsqu'il fonda son Alliance Mortelle avec Quan Chi, et les employa afin de le protéger contre une éventuelle rébellion de son partenaire. Shang Tsung les gardait dissimulés sous son Palais et les nourrissait avec de la chair humaine. Tandis qu'ils attendaient leur prochaine mission, <b>Drahmin</b> et Moloch rencontrèrent de nouveau Scorpion. Cette fois-ci, les 2 Oni vainquirent le ninja et le lancèrent dans le puits d'âmes de Shang Tsung.</p><p>Durant l'Armageddon, <b>Drahmin</b> retourna au NetherRealm, errant dans les montagnes à la recherche de nourriture. Il y rencontra Taven, face à qui il perdit son duel. Comme la plupart des autres combattants ce jour-là, <b>Drahmin</b> connut la mort lors de la bataille finale qui éclata sur la pyramide d'Argus.</p>",
+        "alternative": ""
+    },
+    "_techniques": {
+        "style1": "NetherRealm",
+        "style2": "Oni",
+        "style3": "Hung Gar"
+    },
+    "_armes": {
+        "arme1": "masse",
+        "arme2": "",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "<b>Drahmin</b> devait initialement s'appeler Amon, en référence à la culture égyptienne.",
+        "info2": "D'après le folklore japonais, <i>un Oni avec une masse en fer</i> désignerait une personne invincible.",
+        "info3": "Selon une interview, <b>Drahmin</b> serait, tout comme Hsu Hao, les 2 personnages de Mortal Kombat qu'Ed Boon apprécierait le moins."
+    }
+  },     
+  {
+    "_id": {
+      "id": "013",
+      "nom": "Ermac",
+      "camp": "Mal puis Bien",
+      "race": "",
+      "clan":  "",
+      "origine": "OutWorld",
+      "residence": "OutWorld"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "game1.png",
+        "game2": "game2.png",
+        "game3": "game3.png",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "ingame1.jpg",
+        "ingame2": "ingame2.jpg",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p>Shao Kahn emmagasinait des milliers d'âmes durant toutes ses conquêtes. Un jour, il eut l'idée de les rassembler afin de créer une entité qu'il appela <b>ERMAC</b>. Ne possédant pas de personnalité propre, il utilisait <i>Nous</i> au lieu de <i>Je</i> pour se présenter, et était doté du don de télékinésie. Sous les ordres de son empereur, <b>Ermac</b> se rendit au NetherRealm afin de tuer Ashrah, un démon qui éliminait de nombreux alliés de Shao Kahn afin de purifier son âme. Tandis qu'il était à sa recherche, <b>Ermac</b> fit la rencontre de Shujinko, venu ici à la recherche d'un Kamidogu. Le vieil homme l'informa de la localisation d'Ashrah, et pour le remercier, <b>Ermac</b> lui apprit quelques unes de ses techniques. Cependant <b>Ermac</b> échoua dans sa mission, mais continua tout de même à servir Shao Kahn lorsqu'il démarra l'invasion de l'EarthRealm.</p><p>Après la défaite de Shao Kahn, <b>Ermac</b>, toujours sous son contrôle, erra dans l'OutWorld sans but. Durant les agissements de l'Alliance Mortelle (Shang Tsung/Quan Chi), <b>Ermac</b> rencontra Kenshi qui parvint à le libérer de l'emprise de son ancien maître. Pour lui montrer sa gratitude, <b>Ermac</b> enseigna à Kenshi la technique du Telekinetic Slam.</p><p>Désormais libre, <b>Ermac</b> put enfin choisir sa propre destinée. Il décida de se repentir pour tous ses méfaits et rejoignit les forces du bien. Après avoir pris cette décision, il rencontra l'âme d'un guerrier qui, tout comme Kenshi, comprenait sa souffrance. Il s'agissait de l'âme de Liu Kang, qui errait à la recherche de toute aide pouvant lui permettre de libérer ses amis (Jax, Sonya, Johnny Cage, Kitana et Kung Lao) rendus à l'état d'esclaves par Onaga. Les deux nouveaux compères se mirent alors en route et après un long combat, parvinrent à les libérer. </p><p>Plus tard, <b>Ermac</b> rejoignit les Forces de la Lumière lors de l'Armageddon, où il y trouva la mort.</p>",
+        "alternative": "<p>Réalité alternative (Mortal Kombat 9) :</p><p>Toujours sous les ordres de Shao Kahn, son créateur, <b>Ermac</b> participa au 1er tournoi, mais fut vaincu par Liu Kang. Perturbé dans sa régénération dans la Chambre des âmes par Sub-Zero, Jax et Sonya, il désintégra les bras de Jax avant de se faire neutraliser par Sub-Zero. Une fois remis, <b>Ermac</b> participa au 2nd tournoi et élimina notamment Johnny Cage, sans toutefois empêcher l'OutWorld de perdre le tournoi. </p><p>Une nouvelle fois défait, Shao Kahn décida d'envahir directement l'EarthRealm. <b>Ermac</b> fit partie des troupes d'extermination, mais fut arrêté par Stryker. L'invasion fit cependant énormément de dégâts, et beaucoup d'humains se firent emprisonner. Tandis que Cyber Sub-Zero aidait certains d'entre eux à s'échapper, <b>Ermac</b> intervint, sans toutefois réussir à vaincre le cyborg.</p><p>Tandis que Shao Kahn parvint enfin à pénétrer sur EarthRealm, Raiden et les Dieux Anciens intervinrent, et l'éliminèrent. On peut supposer que désormais, <b>Ermac</b> n'ayant plus aucun maître, il fut libre de choisir son destin.</p>"
+    },
+    "_techniques": {
+        "style1": "Hua Chuan",
+        "style2": "Choy Lay Fut",
+        "style3": ""
+    },
+    "_armes": {
+        "arme1": "Hache",
+        "arme2": "",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "Dans Mortal Kombat, un message d'erreur indiquant un problème de macro a fait naître la rumeur d'un personnage caché. Le message était : ERMAC5. Plus tard durant le développement d'Ultimate Mortal Kombat 3, le nom <b>Ermac</b> fut attribué à un nouveau personnage en hommage à cette rumeur.",
+        "info2": "L'une des âmes qui composent <b>Ermac</b> est celle de l'ancien Roi d'Edenia et mari de Sindel : Jerrod.",
+        "info3": "<b>Ermac</b> est le 2ème personnage à avoir été crée par Shao Kahn, tout comme Mileena et Skarlet"
+    }
+  },   
+  {
+    "_id": {
+      "id": "014",
+      "nom": "Frost",
+      "camp": "Mal",
+      "race": "Cryomancienne",
+      "clan":  "Lin Kuei",
+      "origine": "EarthRealm",
+      "residence": "EarthRealm"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "",
+        "game2": "",
+        "game3": "",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "ingame1.gif",
+        "ingame2": "ingame2.gif",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p>Lorsque Sub-Zero devint le Grand Maître du Lin Kuei, il organisa un tournoi dans le but de trouver un nouvel apprenti. <b>FROST</b> sortit du lot de par ses talents et son caractère. Elle devint donc la protégée de Sub-Zero, qui lui apprit à manier ses pouvoirs de cryomancienne. Mais alors que la puissance de <b>Frost</b> grandissait, son arrogance en fit de même. Son entraînement fut interrompu lorsque Raiden demanda l'aide de Sub-Zero pour la bataille face à l'Alliance Mortelle. Ce dernier décida d'y emmener <b>Frost</b> dans l'espoir qu'elle gagne de l'humilité en goûtant au vrai combat.</p><p>Lors du feu de camp, <b>Frost</b> rencontra les guerriers de l'EarthRealm mais ne faisait pas l'unanimité, surtout aux yeux de Sonya. Après avoir écouté les mots de Raiden, Sub-Zero partit avec sa protégée dans l'OutWorld. C'est à ce moment-là que <b>Frost</b> dévoila ses véritables intentions : devenir le nouveau Grand Maître du Lin Kuei. Pour cela, il lui fallait le Médaillon du Dragon, artefact en la possession de Sub-Zero. Elle congela alors son mentor et lui subtilisa le médaillon, ce qui lui apporta un pouvoir décuplé. Malheureusement pour elle, <b>Frost</b> ne possédait pas la force et la discipline nécessaires pour la contrôler, et elle s'auto-congela.</p><p>Peu de temps après, Sub-Zero retrouva l'usage de son corps et découvrit celui de <b>Frost</b>, entièrement congelé. Malgré la trahison de son élève, Sub-Zero décida de lui trouver un lieu décent où l'enterrer. Il découvrit alors les ruines d'un temple érigé il y a longtemps par les Cryomanciens, ses ancêtres. Après une longue étude des lieux, Sub-Zero prit conscience que <b>Frost</b> était une descendante, tout comme lui. En guise de respect, il enferma donc son corps dans un sarcophage de glace.</p><p>Après quelques temps, <b>Frost</b> se réveilla et découvrit qu'elle était restée dans l'OutWorld, mais que le médaillon lui avait été repris. Désignant Sub-Zero comme responsable, <b>Frost</b> se jura de lui faire payer ce qui lui était arrivé et elle entra dans un état de démence. Elle retourna au QG du Lin Kuei, et élimina un par un les ninjas présents, voyant des Sub-Zero partout, jusqu'à ce que le vrai fasse son apparition, et décide de l'affronter à nouveau. L'issue fut la même, <b>Frost</b> se retrouva de nouveau enfermée dans une des chambres secrètes du Lin Kuei.</p><p>Lors de l'Armageddon, le périple de Taven le conduisit au temple du Lin Kuei. En découvrant le corps de <b>Frost</b>, il la sortit de son sommeil. Pensant avoir à faire à Sub-Zero, cette dernière l'attaqua mais fut vaincue. Après avoir pris conscience de la véritable identité de son opposant, <b>Frost</b> s'enfuit.</p><p>Au moment de l'Armageddon, <b>Frost</b> se retrouva aux côtés des Forces de l'Ombre, mais fut tuée.</p>",
+        "alternative": ""
+    },
+    "_techniques": {
+        "style1": "Tong Bei",
+        "style2": "Yuan Yang",
+        "style3": ""
+    },
+    "_armes": {
+        "arme1": "Dagues de glace",
+        "arme2": "",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "<b>Frost</b> est le premier personnage développé pour Mortal Kombat Deadly Alliance, et l'un des mieux réussis selon Ed Boon. Le souhait des fans d'avoir une version féminine de Sub-Zero a convaincu les développeurs de créer ce personnage.",
+        "info2": "Dans Mortal Kombat 9, on peut apercevoir <b>Frost</b> lorsque Sub-Zero consulte sa base de données, mais aussi au fond du stage <i>The Pit 2</i>.",
+        "info3": ""
+    }
+  },   
+  {
+    "_id": {
+      "id": "015",
+      "nom": "Fujin",
+      "camp": "Bien",
+      "race": "Dieu",
+      "clan":  "",
+      "origine": "Heaven",
+      "residence": "EarthRealm"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "",
+        "game2": "",
+        "game3": "",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "",
+        "ingame2": "",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p><b>FUJIN</b> est le Dieu du Vent. Lui et les 3 autres Dieux Elémentaires (Eau, Feu et Terre) furent convoqués un jour par Raiden afin de protéger l'amulette de Shinnok, confisquée suite à la bataille entre les 2 Dieux sur EarthRealm. Sous les ordres de Quan Chi, Sub-Zero (Bi Han) défia <b>Fujin</b> et les autres Dieux et vola l'amulette, qui fut finalement reprise par le ninja des mains de Shinnok. Mais ce n'était hélas plus l'originale, qui était gardée par Quan Chi. Après l'échec de Shao Kahn dans sa tentative de conquête de l'EarthRealm, la voie était libre pour Shinnok et son armée des ténèbres de porter l'assaut sur Edenia. Le Dieu Ancien déchu élimina les Dieux un par un, mais <b>Fujin</b> et Raiden échappèrent au massacre.</p><p>Décidant de s'allier avec les guerriers de Raiden, <b>Fujin</b> participa au succès des Forces du Bien, symbolisée par la victoire de Liu Kang sur Shinnok, qui fut du coup renvoyé au NetherRealm. <b>Fujin</b> fut ensuite convoqué par les Dieux Anciens, qui lui assignèrent une nouvelle fonction : devenir le nouveau Protecteur de l'EarthRealm, Raiden ayant obtenu le grade de Dieu Ancien. <b>Fujin</b> accepta sans hésiter et jura à Raiden d'être digne de son nouveau statut.</p><p>Lorsque Raiden se sacrifia pour tenter de détruire Onaga, son énergie vitale se reconstitua mais fut corrompue par le Roi Dragon, rendant le Dieu Ancien complètement perturbé, ce que ressentit <b>Fujin</b>. Apprenant que son vieil ami avait réanimé le corps de Liu Kang pour s'en servir comme instrument de destruction, <b>Fujin</b> partit à la rencontre de Kung Lao afin de trouver une solution. Le moine shaolin apprit au dieu que Johnny Cage formait une armée en préparation de l'Armageddon, et apprit de la bouche de Kenshi que les 2 fils d'Argus, Taven et Daegon, s'étaient réveillés. Étant un vieil ami de leur famille, <b>Fujin</b> se rendit donc à la rencontre d'Argus, qui lui expliqua que ses fils étaient en compétition et suivaient une même quête : affronter Blaze afin de décider du sort de tous les combattants.</p><p>Mais <b>Fujin</b> sentait que cette quête était corrompue, et appréhendait une issue beaucoup moins paisible que prévue. Il se mit alors à rechercher les 2 frères afin de les empêcher d'accomplir leur quête. Le Dieu parvint à retrouver Taven qui, malgré leur lien d'amitié, l'affronta avant de reprendre sa route.</p><p>Impuissant face aux évènements, <b>Fujin</b> décida de rejoindre les Forces de la Lumière et prit part à la bataille finale au pied de la Pyramide. Malheureusement, il fut tué comme tous les autres et ne put empêcher le pire d'arriver.</p>",
+        "alternative": ""
+    },
+    "_techniques": {
+        "style1": "Lui He",
+        "style2": "",
+        "style3": ""
+    },
+    "_armes": {
+        "arme1": "Arbalète Plasma",
+        "arme2": "Devastator",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "Tout comme Raiden (Raijin), <b>Fujin</b> est directement inspiré de Fûjin, le dieu du vent dans la religion shintoïste.",
+        "info2": "<b>Fujin</b> peut être une référence à Ted Fujita, le météorologue à l'origine de l'échelle de Fujita, servant à classer les tornades selon leur gravité.",
+        "info3": "Juste avant la sortie du 4ème DLC dans Mortal Kombat 9, une version leakée du jeu faisait penser à ce que ce soit <b>Fujin</b>. Plusieurs vidéos ont été prises, où l'on entend clairement la voix de l'annonceur prononcer le nom du Dieu. Finalement, c'est Skarlet qui sortira en DLC."
+    }
+  },   
+  {
+    "_id": {
+      "id": "016",
+      "nom": "Goro",
+      "camp": "Mal",
+      "race": "Shokan",
+      "clan":  "",
+      "origine": "OutWorld",
+      "residence": "OutWorld"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "game1.png",
+        "game2": "game12.png",
+        "game3": "game3.png",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "ingame1.jpg",
+        "ingame2": "",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p>Shang Tsung, champion du Mortal Kombat durant une période inconnue, perdit face au Grand Kung Lao lors d'une finale opposant l'EarthRealm à l'OutWorld. Le tournoi suivant, le sorcier réapparut, mais cette fois-ci en tant qu'organisateur, suite à la mystérieuse mort d'un des 3 <i>maîtres</i>. C'est donc sur l'île de Shang Tsung que ce nouveau tournoi prenait lieu, et la finale opposa le champion en titre, le Grand Kung Lao, au disciple du sorcier : <b>GORO</b>, le Prince Shokan.</p><p>Le guerrier aux 4 bras tua le shaolin, remportant ainsi le tournoi et permettant à Shang Tsung de voler l'âme du vaincu. Suite à ce tournoi, <b>Goro</b> remporta les 8 autres qui suivirent, portant alors à 9 le nombre de victoires consécutives. Une dernière suffisait donc pour que l'EarthRealm soit annexée à l'OutWorld. Mais pour ce 10ème tournoi décisif, Raiden, le Dieu du Tonnerre et Protecteur de l'EarthRealm, choisit un jeune shaolin pour représenter leur Royaume : Liu Kang. Ce jeune guerrier parvint en finale face à <b>Goro</b>, et le battit, offrant ainsi à l'EarthRealm un long répit.</p><p>Lorsque Shao Kahn réclama l'EarthRealm en tentant de l'envahir et qu'il échoua, stoppé par Liu Kang, <b>Goro</b> fit sa réapparition. Malgré son désir de se venger du moine shaolin, le Shokan se consacrait aux membres de sa race, engagés dans une terrible guerre face aux Centaures. Kitana intervint et mit un terme au conflit en trouvant un arrangement à l'amiable. Durant ces négociations, Kung Lao (le descendant du célèbre moine du même nom) apparut et trancha le torse de <b>Goro</b>, vengeant ainsi son ancêtre. Considérant qu'ils étaient quittes, Kung Lao et <b>Goro</b> se serrèrent la main, de bonne guerre. Tandis que l'armée de Shinnok faisait des ravages sur Edenia, <b>Goro</b> et son armée de Shokans s'allièrent aux guerriers Edeniens dans la grande guerre qui éclata.</p><p>Shinnok banni, la paix revint sur Edenia, mais fut de courte durée. En effet, l'Alliance Mortelle composée de Shang Tsung et Quan Chi réanimèrent l'armée du Roi Dragon et utilisèrent celle de Shao Kahn pour conquérir Edenia. L'alliance Edeniens-Shokans se lança dans cette nouvelle bataille et <b>Goro</b> se retrouva blessé mortellement par Noob Saibot. En apprenant la mort de son ami, Kitana organisa une cérémonie en hommage au Shokan. Mais <b>Goro</b> n'était en fait pas mort. C'est Shao Kahn, en retrouvant le corps du Shokan très affaibli, qui en profita pour faire un deal avec lui : redorer le blason des Shokans et exterminer la race des Centaures en échange de son allégeance. <b>Goro</b> accepta, et plaça sa ceinture sur la dépouille d'un autre guerrier Shokan, simulant ainsi sa mort.</p><p>Afin de reprendre sa place sur le trône d'Outworld, occupé par Mileena, Shao Kahn, <b>Goro</b> et Shang Tsung (ressuscité par Kahn) formèrent un trio invincible, éliminant à eux 3 l'intégralité de l'armée Edenianne. Ils parvinrent jusqu'à la salle du trône, où Mileena rendit les armes, faisant de Shao Kahn l'empereur d'OutWorld à nouveau.</p><p>Plus tard, <b>Goro</b> fit la rencontre de Taven dans la forteresse de Kahn, qui cherchait à tuer Quan Chi. Le shokan fut vaincu mais promit au fils d'Argus que s'ils se croisaient de nouveau sur le champ de bataille, il ne serait pas aussi chanceux. <b>Goro</b> participa à la bataille finale aux côtés des Forces de l'Ombre, mais fut tué avant de parvenir au sommet de la Pyramide.</p>",
+        "alternative": "<p>Réalité alternative (Mortal Kombat 9) :</p><p><b>Goro</b>, après ses 9 victoires consécutives au Mortal Kombat, défendit de nouveau les couleurs de l'OutWorld pour le 10ème tournoi. Il se retrouva en finale face à Liu Kang, mais fut battu. Malgré l'intervention de Shang Tsung, qui fut lui aussi vaincu par le shaolin, l'EarthRealm remporta le tournoi, sauvant ainsi son destin.</p><p><b>Goro</b> n'attendait pas longtemps avant de recroiser Liu Kang. Désireux de prendre sa revanche, le Shokan provoqua le shaolin mais c'est Kung Lao, venu épauler son ami, qui l'affronta. De nouveau vaincu, <b>Goro</b> fut alors interrogé sur la localisation de Kitana, avant d'être assommé par Liu Kang.</p><p>Durant l'invasion de l'EarthRealm par les troupes de Shao Kahn, <b>Goro</b> était chargé de surveiller les prisonniers humains, de même que Kintaro, Kano et Cyber Sub-Zero. Mais ce dernier, après avoir retrouvé la mémoire grâce à Kabal, se retourna contre ses anciens coéquipiers et les gela, avant de s'enfuir avec les prisonniers.</p>"
+    },
+    "_techniques": {
+        "style1": "Kuatan",
+        "style2": "Shokan",
+        "style3": ""
+    },
+    "_armes": {
+        "arme1": "Griffes Dragon",
+        "arme2": "",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "Sur son Twitter, John tobias révéla qu'au départ, <b>Goro</b> devait s'appeler GONGORO. Ils décidèrent par la suite de raccourcir son nom.",
+        "info2": "",
+        "info3": ""
+    }
+  },    
+  {
+    "_id": {
+      "id": "017",
+      "nom": "Hsu Hao",
+      "camp": "Mal",
+      "race": "Humain",
+      "clan":  "Dragon Rouge",
+      "origine": "EarthRealm",
+      "residence": "EarthRealm"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "",
+        "game2": "",
+        "game3": "",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "ingame1.jpg",
+        "ingame2": "ingame2.jpg",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p>Membre du Dragon rouge, <b>HSU HAO</b> fut chargé par Mavado, son supérieur, d'infiltrer les Forces Spéciales et de les mettre secrètement sur la piste du Dragon Noir. Une fois celui-ci apparemment détruit, <b>Hsu Hao</b> reçut l'ordre de rester dans les rangs des Forces Spéciales comme informateur, en se faisant passer pour un ancien membre d'un groupe militaire secret chinois. Ainsi, les Forces Spéciales détruisirent quasiment entièrement le Dragon Noir, tuant des membres importants tels que Jarek. Suite à cela, les Forces Spéciales demandèrent à <b>Hsu Hao</b> de les rejoindre dans l'OutWorld Investigation Agency, fondée par Sonya et Jax.</p><p>Mavado vit là l'occasion de saboter leur QG, et somma <b>Hsu Hao</b> de cette mission. Ce dernier se munit d'une mini-arme nucléaire qu'il disposa sur le portail inter-royaumes, qui explosa juste après sa fuite. Cependant, Jax apprit cette trahison et se mit à rechercher <b>Hsu Hao</b>. Ce dernier reçut un nouvel ordre de la part de son supérieur lui demandant d'assassiner Shang Tsung. Malheureusement pour lui, <b>Hsu Hao</b> fut intercepté par Jax, qui lui arracha son coeur bionique, mettant fin à sa vie.</p><p>De manière inconnue, <b>Hsu Hao</b> revint de par les morts pour participer à la bataille de l'Armageddon aux côtés des Forces de l'Ombre, où il fut de nouveau tué.</p>",
+        "alternative": ""
+    },
+    "_techniques": {
+        "style1": "Lutte",
+        "style2": "Shuai Chiao",
+        "style3": "Sumo"
+    },
+    "_armes": {
+        "arme1": "Epées Sun-Moon",
+        "arme2": "",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "<b>Hsu Hao</b> est l'un des personnages les plus détestés parmi les fans de Mortal Kombat, y compris des créateurs eux-mêmes tels que John Vogel. L'historien de Mortal Kombat a d'ailleurs voulu de débarrasser de lui dès la fin de Deadly Alliance, en le faisant mourir des mains de Jax. Cependant, lors du développement de Mortal Kombat Armageddon, il dut se résigner à le faire revenir.",
+        "info2": "<b>Hsu Hao</b> se fit greffer son implant au torse par le même chirurgien qui dota Kano d'un oeil bionique.",
+        "info3": ""
+    }
+  }, 
+  {
+    "_id": {
+      "id": "018",
+      "nom": "Jade",
+      "camp": "Bien",
+      "race": "Edenianne",
+      "clan":  "",
+      "origine": "Edenia",
+      "residence": "Edenia"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "game1.png",
+        "game2": "game2.png",
+        "game3": "game3.png",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "ingame1.jpg",
+        "ingame2": "ingame2.jpg",
+        "ingame3": "ingame3.png"
+    },    
+    "_bio": {
+        "longue": "<p><b>JADE</b> est une jeune femme dont les parents, appartenant à la haute noblesse, furent de très bons amis du couple royal Jerrod et Sindel. Lorsqu'elle n'était encore qu'une enfant, elle fut capturée comme Kitana par Shao Kahn lors de son invasion d'Edenia. Avec Mileena, les 3 filles devinrent de véritables assassins sous les ordres de leur nouvel empereur. Lorsque Kitana fut condamnée à mort pour le meurtre de Mileena, <b>Jade</b> fut envoyée avec Reptile pour la retrouver et la capturer. Cependant, convaincue par sa meilleure amie, elle décida de changer de camp et de se battre aux côtés des guerriers de l'EarthRealm.</p><p>Les 2 filles partirent donc à la recherche de Sindel afin de rompre le sort qui la liait à Shao Kahn. En évoquant les souvenirs du passé à sa mère, Kitana permit à Sindel de recouvrer la mémoire. Cette dernière prit alors conscience de la gravité de la situation et se rebella contre Kahn, qui fut vaincu quelques temps après par Liu Kang, libérant ainsi l’EarthRealm du contrôle de l’OutWorld.</p><p>La paix revenue, <b>Jade</b> retourna sur Edenia mener une vie tranquille jusqu’à ce qu’elle apprit que Raiden rassemblait des combattants pour combattre une nouvelle menace : l’Alliance Mortelle, composée des sorciers Shang Tsung et Quan Chi. Voulant aider ses amis, <b>Jade</b> partit se rendre au Palais de Tsung mais arriva trop tard. Elle découvrit les corps de ses amis au sol, sans vie. Tandis qu’elle se recueillait auprès des corps, <b>Jade</b> aperçut une large silhouette approcher et partit se cacher dans les environs. C’était Onaga, le Roi Dragon, venu auprès des corps afin de les réanimer et de s’en servir selon sa volonté. Une fois ressuscités, les nouveaux serviteurs d’Onaga se regroupèrent dans la Forêt Vivante, suivis de près par <b>Jade</b>.</p><p>En les traquant, <b>Jade</b> apprit que ses anciens amis avaient envahi Edenia et que Kitana retenait Sindel enfermée. <b>Jade</b> décida donc d’attaquer sa meilleure amie, réussit à la vaincre et l’enferma dans une cellule. <b>Jade</b> et Sindel prirent la fuite, suivies de près par les gardes appelés par Kitana. Elles empruntèrent alors le portail menant à l’OutWorld, alertant par le même temps Tanya, qui espionnait les voyages inter-portails pour Onaga. Une fois sur OutWorld, <b>Jade</b> et Sindel cherchèrent à libérer Kitana de l’emprise du roi Dragon, mais également un moyen de faire payer à Tanya sa traîtrise envers Edenia. Tandis qu’Ermac et Liu Kang libéraient les âmes de Kitana, Kung Lao, Johnny Cage, Jax et Sonya, Onaga fut emprisonné dans le NetherRealm par Nightwolf, restaurant ainsi la paix.</p><p>Mais cette plénitude fut de courte durée, car l’Armageddon prédit par Délia approchait. En effet, les combattants devinrent de plus en plus nombreux et l’avenir des Royaumes était menacé. En apprenant l’existence de la quête de Taven et du pouvoir de Blaze, une armée appelée les Forces de l’Ombre se forma afin de réclamer ce prix. De l’autre côté, les Forces du Bien, comptant dans ses rangs <b>Jade</b>, s’allièrent contre cette ultime menace. La bataille qui en résulta vit la mort de la plupart des combattants, <b>Jade</b> y compris.</p>",
+        "alternative": "<p>Réalité alternative (Mortal Kombat 9) :</p><p>En tant que meilleure amie de la princesse Kitana, <b>Jade</b> fut à ses côtés lors du lancement du tournoi opposant l'EarthRealm à l'OutWorld. En apprenant que Sonya avait libéré Jax, qu'il retenait captif, Shang Tsung envoya les 2 femmes les intercepter, mais elles échouèrent dans leur mission. Après la victoire de Liu Kang lors du tournoi, l'OutWorld proposa une revanche (acceptée par Raiden) et captura Sonya par la même occasion. Logiquement, Jax partit à son tour libérer son amie mais <b>Jade</b> se dressa face à lui, en vain.</p><p>Durant le 2nd tournoi, Kitana commença à se poser des questions sur son passé, obligeant Shao Kahn à renforcer sa surveillance. Ainsi, <b>Jade</b> tenta en vain d'empêcher Kitana de parvenir jusqu'au Puis de chair, endroit où la princesse découvrit l'existence de Mileena, clone crée grâce au sang de la princesse. En découvrant cela, Kitana demanda à Shao Kahn des éclaircissements sur son passé. A sa grande stupeur, l'empereur lui révéla qu'il n'était pas son vrai père, qu'il avait tué afin de prendre sa place sur le trône. Il révéla également à Kitana que Mileena avait été crée dans le but de lui donner une fille légitime, ce que Kitana n'était pas. La princesse tomba donc en disgrâce auprès de Shao Kahn, qui ordonna son enfermement et son exécution. Tapie dans l'ombre, <b>Jade</b> assista à toute la scène et réalisa qu'il était grand temps de sauver son amie.</p><p>Après s'être débarrassé de Baraka et de Sheeva, <b>Jade</b> parvint jusqu'à la prison où se trouvait Kitana. Sentant des gardes s'approcher, cette dernière demanda à <b>Jade</b> de retrouver Raiden afin de lui demander son aide. Mais en chemin, la jeune femme tomba sur Mileena qui l'attaqua, <b>Jade</b> sortit vainqueur de leur combat. Voyant le corps de Mileena au sol, et le confondant avec celui de Kitana, Smoke se rua sur <b>Jade</b>. Après avoir calmé les ardeurs du ninja, elle rencontra enfin les guerriers de l'EarthRealm, accompagnés de Raiden. <b>Jade</b> leur expliqua alors la situation et tous se rendirent au Colisée, où Kitana était retenue captive. Une fois là-bas, Liu Kang libéra finalement la princesse et remporta le tournoi en battant Shao Kahn.</p><p>Cependant, l'empereur ne s'avoua pas vaincu et, grâce à la résurrection de Sindel, ouvrit un portail vers l'EarthRealm, permettant ainsi son invasion. Désormais dans le camp de Raiden, <b>Jade</b> et ses amis se dressèrent face aux guerriers du Lin Kuei, qui s'étaient alliés à la cause de Shao Kahn. Tandis qu'ils prenaient le dessus, Sindel fit son apparition et tua un par un les guerriers de l'EarthRealm, <b>Jade</b> y compris.</p><p>Suite à un accord entre Shao Kahn et Quan Chi, l'âme de <b>Jade</b> atterrit au NetherRealm, où elle devint un zombie aux services du nécromancien.</p>"
+    },
+    "_techniques": {
+        "style1": "Fan Zi",
+        "style2": "SKuo Shou",
+        "style3": ""
+    },
+    "_armes": {
+        "arme1": "Eventails",
+        "arme2": "Bâton",
+        "arme3": "Boomerang" 
+    },
+    "_infos": {
+        "info1": "<b>Jade</b> est le premier personnage féminin secret dans Mortal Kombat. On peut l’apercevoir dans le stage « Living forest » de Mortal Kombat 2, derrière les arbres. Parfois, elle laisse des indices au joueur sur la manière de la trouver, ou des messages tels que « Chun Wo ? », une blague faisant référence à Chun Li de Street Fighter. Pour l’affronter, il faut vaincre l’adversaire situé juste avant la case « ? » dans le mode Arcade en utilisant seulement le Low Kick (Pied Bas).",
+        "info2": "La peau de <b>Jade</b> est de couleur noire, mais pourtant sur les versions Sega Saturn, Sega Genesis et Amiga de Mortal Kombat 2, elle est blanche.",
+        "info3": ""
+    }
+  },   
+  {
+    "_id": {
+      "id": "019",
+      "nom": "Jarek",
+      "camp": "Mal",
+      "race": "Humain",
+      "clan":  "Dragon Noir",
+      "origine": "EarthRealm",
+      "residence": "EarthRealm"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "game1.png",
+        "game2": "game2.png",
+        "game3": "",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "",
+        "ingame2": "",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p><b>JAREK</b> fait partie du Dragon Noir et est le bras droit de Kano, ce qui explique leur similitude au niveau du comportement et des techniques. Pour ses actes, <b>Jarek</b> fut emprisonné par les Forces Spéciales avec ses camarades No-Face (un pyromane au visage tuméfié et pâle), Tremor (une montagne de muscles à la force surhumaine) et Tasia (une épéiste agile et douée). Ils parvinrent à se libérer avec l'aide de Kano, ce dernier leur annonçant avoir besoin d'eux pour reformer le Dragon Noir. Mais en fait, Kano voulait se servir d'eux pour ralentir la progression de Jax afin qu'il puisse voler l'Oeil de Shitian.</p><p>Dans le building servant de QG au clan, <b>Jarek</b> fut nommé chef de la sécurité. Il affronta Jax au sommet de l'immeuble mais fut vaincu comme tous ses coéquipiers. Cependant <b>Jarek</b> échappa à la capture en s'enfuyant vers Edenia. Mais Jax et Sonya, bien décidés à le capturer, étaient parti à sa recherche. La bataille contre Shinnok faisait rage et les 3 combattants durent s'allier afin de repousser leur ennemi commun. Une fois Shinnok vaincu, <b>Jarek</b> refusa de rejoindre les Forces Spéciales et s'enfuit à nouveau. Sa fuite le conduisit au sommet d'une falaise, où Jax le retrouva et le lança dans le vide.</p><p>Cependant, <b>Jarek</b> survécut en s'aidant de son arme pour ralentir sa chute. Laissé pour mort, il en profita pour travailler dans l'ombre le perfectionnement de ses techniques. Quelques temps plus tard, <b>Jarek</b> rencontra Quan Chi, qui lui proposa de le rejoindre dans les Forces de l'Ombre en échange de quoi il lui augmenterait ses pouvoirs. C'est ainsi que <b>Jarek</b> prit part à la bataille finale sur la pyramide d'Argus durant l'Armageddon, où il y trouva la mort pour de bon cette fois-ci.</p>",
+        "alternative": ""
+    },
+    "_techniques": {
+        "style1": "Dragon",
+        "style2": "",
+        "style3": ""
+    },
+    "_armes": {
+        "arme1": "Grande épée",
+        "arme2": "Hache",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "Le visage de <b>Jarek</b> est directement inspiré de celui de Herman Sanchez, l'un des designers des Mortal Kombat.",
+        "info2": "",
+        "info3": ""
+    }
+  },    
+  {
+    "_id": {
+      "id": "020",
+      "nom": "Jax",
+      "camp": "Bien",
+      "race": "Humain",
+      "clan":  "Forces Spéciales",
+      "origine": "EarthRealm",
+      "residence": "EarthRealm"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "game1.png",
+        "game2": "game2.png",
+        "game3": "game3.png",
+        "game4": "game4.png",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "",
+        "ingame2": "",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p>Les Forces Spéciales, basées sur l'EARTHREALM, comptent parmi elles le Major Jackson Briggs, plus communément appelé <b>JAX</b>. Il est le supérieur de SONYA BLADE, qui est aussi sa partenaire. Lors d'une mission <b>Jax</b> croisa la route de KANO, le chef du Dragon Noir, et c'est après cette rencontre que le criminel perdit l'usage d'un oeil. <b>Jax</b> reçut un jour un appel de Gemini lui informant l'évasion de 4 criminels du Dragon Noir : No-Face, Tasia, Tremor et JAREK. Leur évasion ne faisait aucun doute pour <b>Jax</b> : Kano était derrière tout ça. Après un long périple, il retrouva et renferma les 4 criminels, et fit face à Kano. Ce dernier perdit le combat et fut enfermé, mais pas pour longtemps...</p><p>En effet, le criminel s'échappa et Sonya partit à sa recherche, ce qui les conduisirent au Mortal Kombat, où ils furent capturés pas les sbires de SHANG TSUNG. A ce moment là, <b>Jax</b> reçut un signal vidéo de son amie lui informant qu’elle et le bandit étaient prisonniers dans l’OUTWORLD. Sur le chemin, il croisa JOHNNY CAGE, qui lui expliqua tout ce qui s’était passé sur l’île du sorcier. Suite à la victoire de LIU KANG et au déplacement du tournoi dans l’OutWorld, <b>Jax</b> rejoint les guerriers Terriens afin de pénétrer le royaume. Il parvint à libérer Sonya et à capturer Kano. De retour dans ses quartiers, personne ne crut l’histoire de <b>Jax</b>. Et, cerise sur le gâteau, Kano s’était encore échappé...</p><p>A partir de là, <b>Jax</b> devint le Commandant de L’OutWorld Investigation Agency (OIA) chargée de trouver et détruire les portails nouvellement créés par SHAO KAHN. Aux côtés de RAIDEN, il participa à la guerre contre SHINNOK, et c’est durant ces évènements qu’il retrouva le corps inanimé de CYRAX. Avec l’aide de Sonya, ils le réactivèrent et lui redonnèrent sa conscience. Par gratitude, le cyborg accepta de devenir leur allié.</p><p>Quelques années plus tard, Cyrax et KENSHI (nouvellement recruté) furent prisonniers de l’Outworld durant une mission. <b>Jax</b> suspecta l’infiltration d’une taupe, qui s’avéra être HSU HAO, un membre du Dragon Rouge, dirigé par MAVADO. Afin de le traquer, il rejoint Raiden dans la bataille face à l’Alliance Mortelle. Il retrouva finalement Hsu Hao, et lui arracha son cœur artificiel en guise de vengeance.</p><b>Jax</b> rejoint ensuite le groupe de Raiden dans la bataille face aux armées Tarkatans, mais fut tué comme tous ses amis. Il fut ressuscité par ONAGA et utilisé comme marionnette. C’est Liu Kang et ERMAC qui le libérèrent ainsi que tous ses amis.<p>Durant l’Armageddon, <b>Jax</b> fut envoyé à la recherche de survivants suite à l’attaque d’un vaisseau Tekunin. Il fut capturé par SEKTOR et ses sbires, et ses implants bioniques furent désactivés. Porté disparu par Sonya, <b>Jax</b> réapparut lors de la bataille finale sur la pyramide d'Argus, où il périt.</p>",
+        "alternative": ""
+    },
+    "_techniques": {
+        "style1": "Judo",
+        "style2": "Muay Thai",
+        "style3": ""
+    },
+    "_armes": {
+        "arme1": "Matraque",
+        "arme2": "Masse à pics",
+        "arme3": "Ses bras" 
+    },
+    "_infos": {
+        "info1": "<b>Jax</b> aurait du apparaitre pour la 1ère fois dans MK1 sous le nom de Stryker, mais comme il manquait de personnages féminins, c'est Sonya qui fut choisie et qui hérita de son histoire.",
+        "info2": "",
+        "info3": ""
+    }
+  },    
+  {
+    "_id": {
+      "id": "021",
+      "nom": "Johnny Cage",
+      "camp": "Bien",
+      "race": "Humain",
+      "clan":  "",
+      "origine": "EarthRealm",
+      "residence": "EarthRealm"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "game1.png",
+        "game2": "game2.png",
+        "game3": "game3.png",
+        "game4": "game4.png",
+        "game5": "game5.png",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "",
+        "ingame2": "",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p>John Carlton, plus connu sous le nom de <b>JOHNNY CAGE</b>, est une superstar de films d'actions aux Etats-Unis. Malheureusement, il compte autant de fans que de détracteurs : ces derniers émettant constamment l'hypothèse que <b>Johnny</b> utilise une doublure pour ses combats. Enragé par ces rumeurs, il décida de participer au Mortal Kombat afin de prouver aux gens sa vraie valeur. Une fois à bord du bateau en direction de l'île de SHANG TSUNG, <b>Johnny</b> rencontra SONYA et LIU KANG, avec qui il sympathisa. Après la victoire de ce dernier face à GORO, l'île commença à se détruire, et <b>Johnny</b> fit face à son tour au Shokan. Epaulé par Sonya et KANO, il arriva à le vaincre, mais fut pris au piège en tentant de partir. RAIDEN, le protecteur de l'EARTHREALM, aida son protégé à quitter l'île, mais ne put rien pour Sonya. <b>Cage</b> se retrouva à bord du bateau des Forces Spéciales, où se trouvait JAX, le coéquipier de Sonya, à la recherche de cette dernière.</p><p>Alors que <b>Cage</b> lui expliqua tout ce qu'il s'était passé sur l'île, Jax n'en crut mot, et entama seul ses recherches. Retourné sur EarthRealm, <b>Cage</b> décida de tourner un film basé sur les évènements de ce tournoi. Ayant reçu un signal de détresse de Sonya, Jax s'aperçut que ce que <b>Cage</b> lui avait dit s'avéra vrai. Il partit alors à sa recherche, et le trouva aux prises avec les sbires de Shang Tsung. Accompagné des autres guerriers de l'EarthRealm, ils démarrèrent leur combat, stoppés par l'arrivée de Raiden. Le Dieu s'entretint avec le sorcier, et ce dernier lui proposa un nouveau tournoi décidant du sort de l'EarthRealm. <b>Cage</b> prit donc part à ce tournoi, voyant la victoire finale de Liu Kang sur SHAO KAHN.</p><p>Cependant ce dernier ne s'avoua pas vaincu pour autant et décida d'envahir l'EarthRealm par la force, envoyant ses troupes sur Terre. <b>Cage</b> résista tant bien que mal aux assauts des créatures de l'OUTWORLD mais fut tué par MOTARO. Mais son âme ne quitta que brièvement son corps, stoppée dans son ascension vers le Paradis par la fusion des Royaumes. Sauvée par Raiden, son âme rejoignit son corps et <b>Cage</b> put ainsi poursuivre le combat. Une fois de plus, Liu Kang vainquit Shao Kahn et l'EarthRealm retrouva la paix.</p><p>Le portail inter-Royaumes détruit, l'âme de <b>Cage</b> quitta cette fois-ci son corps et fut libre de rejoindre le Paradis. Pendant ce temps, SHINNOK démarra son invasion d'EDENIA et assassina ces anciens camarades, les Dieux Anciens. Raiden, voulant à tout prix stopper cette nouvelle menace, rassembla ses guerriers et ressuscita une nouvelle fois <b>Cage</b> à la demande de ce dernier. Shinnok battu, <b>Cage</b> resta mortel car son âme n'ayant pas encore rejoint le Paradis, sa résurrection fut donc définitive.</p><p>Sa carrière d'acteur sur le déclin, <b>Cage</b> décida de faire un break, préférant ses véritables aventures. Apprenant la mort de Liu Kang, il répondit donc tout naturellement au nouvel appel de Raiden, ce dernier nécessitant son aide pour stopper Shang Tsung et QUAN CHI : l'alliance mortelle. <b>Cage</b> se rendit donc sur OutWorld mais y trouva la mort comme les autres guerriers de l'EarthRealm.</p><p>Seul Raiden survécut à l'alliance, et leur tint tête jusqu'à ce qu'une nouvelle menace fasse son apparition : ONAGA, le Roi Dragon ! Déterminé à le stopper à tout prix, Raiden se sacrifia, tuant les 2 sorciers dans son attaque. Mais Onaga survécut à la déflagration et commença son règne sur les Royaumes. Pour cela, il ressuscita <b>Cage</b> et ses amis, et s'en servit comme protection.</p><p>Liu Kang, observant les faits depuis le royaumes des morts, tenta de trouver de l'aide sur OutWorld. Son âme entra en contact avec ERMAC, qui accepta de l'aider. Les 2 alliés combattirent tous les guerriers de l'EarthRealm et parvinrent à les libérer de l'emprise d'Onaga. <b>Cage</b> retrouva donc à nouveau la vie comme ses amis.</p><p>Voyant que son mentor (Raiden, devenu corrompu par Onaga) et son meilleur ami (Liu Kang, décédé) ne furent plus capables de protéger l'EarthRealm comme il se doit, <b>Cage</b> décida d'être le nouveau fer de lance de l'EarthRealm. Ayant des visions de Shinnok traversant les Royaumes, <b>Cage</b> partit vérifier le bien fondé de ses visions, et découvrit que le Dieu Ancien déchu se dirigeait vers l'île de Shang Tsung. Une fois arrivé là-bas, <b>Cage</b> découvrit Shinnok en train de converser avec Quan Chi, planifiant de s'emparer de la forteresse de Kahn. Alors que le nécromancien parvint à s'enfuir, <b>Cage</b> défia Shinnok et prit le dessus, mais ce dernier réussit à prendre la fuite dans un nuage de fumée. A partir de ce moment-là, <b>Cage</b> sentit qu'il était en son devoir d'empêcher l'Armageddon de se produire. Avec FUJIN, il rassembla donc les meilleurs guerriers et alliés de l'EarthRealm, qu'il surnomma les Forces de la Lumière, crée pour défier les Forces de l'Ombre de Quan Chi. Cette ultime bataille entre le bien et le mal éclata au pied de la Pyramide d'Argus, et la quasi-totalité des combattants y trouvèrent la mort, <b>Cage</b> y compris.</p>",
+        "alternative": ""
+    },
+    "_techniques": {
+        "style1": "Karaté",
+        "style2": "Shinto Ryu",
+        "style3": "Shorin Ryu"
+    },
+    "_armes": {
+        "arme1": "Bowie Knife",
+        "arme2": "Pistolet",
+        "arme3": "Nunchaku" 
+    },
+    "_infos": {
+        "info1": "<Le véritable nom de <b>Johnny Cage</b>, John Carlton, est aussi celui d'un développeur de Midway.",
+        "info2": "Le design de <b>Johnny Cage</b> est clairement inspiré du personnage de Jean-Claude Van Damme dans le film Bloodsport (1988)",
+        "info3": "L'origine de ses attaques spéciales est donnée dans MK2011 : Cage étant décrit comme descendant d'un culte méditerranéen ayant pour coutume de créer des guerriers pour les dieux avec des pouvoirs dépassant le commun des mortels ."
+    }
+  },   
+  {
+    "_id": {
+      "id": "022",
+      "nom": "Kabal",
+      "camp": "Bien et Mal",
+      "race": "Humain",
+      "clan":  "Dragon Noir",
+      "origine": "EarthRealm",
+      "residence": "EarthRealm"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "game1.png",
+        "game2": "game2.png",
+        "game3": "",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "ingame1.jpg",
+        "ingame2": "ingame2.jpg",
+        "ingame3": "ingame3.png"
+    },    
+    "_bio": {
+        "longue": "<p><b>KABAL</b> fut à l'origine un criminel appartenant au Dragon Noir jusqu’à l’invasion de l'EarthRealm par Shao Kahn. Mutilé par ses troupes d’extermination, il eut la trachée sectionnée, le contraignant à porter un appareil de respiration artificielle. Tous ces évènements changèrent <b>Kabal</b> : il allait devenir un allié du bien, laissant derrière lui sa vie de criminel. Tandis que les âmes de nombreux terriens étaient aspirées, la sienne fut épargnée. En effet, il fut choisi par Raiden et invité à le rejoindre dans la bataille face aux armées de l'OutWorld. Après la victoire de Liu Kang, <b>Kabal</b> reprit le cours de sa vie.</p><p>Durant les agissements de l'Alliance Mortelle , <b>Kabal</b> croisa la route de Mavado, le leader du Dragon Rouge, le clan rival du Dragon Noir. Ce dernier le blessa mortellement et prit ses « HookSwords » en trophée. Gisant sur le sol, <b>Kabal</b> fut retrouvé par Havik, le clerc du Chaos. Après l’avoir soigné, ce dernier lui conseilla de reformer le Dragon Noir, qui s'était quelque peu éteint ces dernières années. Malgré son vœu de ne jamais redevenir un criminel, <b>Kabal</b> rejoint Havik sans hésitation. Ils coopérèrent pendant quelques temps, assez longtemps pour que <b>Kabal</b> retrouve Mavado et le tue, récupérant en même temps ses armes. Durant l’ascension d’Onaga, <b>Kabal</b> recruta Kira et Kobra et tous firent équipe avec Havik. Dans un premier temps, on pourrait penser que le recrutement des 2 jeunes par <b>Kabal</b> était dans le but de boucher le vide laissé pas tous ses camarades disparus du Dragon Noir. Mais il avait d’autres plans en tête : <b>Kabal</b> voulait avant tout s’assurer de leur dévouement en les lançant dans la bataille face aux guerriers de Raiden.</p><p>Durant l’Armageddon, <b>Kabal</b> tenta d'éliminer Taven, qui venait de battre Kobra. Il fut malheureusement vaincu, mais épargné par le fils d'Argus. <b>Kabal</b> trouva finalement la mort quelques temps plus tard, lors de la bataille finale sur la pyramide d'Argus.</p>",
+        "alternative": "<p>Réalité alternative (Mortal Kombat 9) :</p><p>Membre de la police de New York, <b>Kabal</b> fut le coéquipier de Stryker lorsque les armées de l'OutWorld envahirent l'EarthRealm. Durant le conflit, <b>Kabal</b> fut gravement brûlé au visage par Kintaro. Stryker prévint les secours mais ils furent devancés par Kano, qui amena <b>Kabal</b> sur OutWorld afin de le soigner. <b>Kabal</b> constata à son réveil qu'on lui avait posé un appareil respiratoire, et qu'à cause de ses nombreuses brûlures, il était devenu une abomination. Mais alors qu'il reprenait ses esprits, Kano l'invita à revenir à ses côtés au sein du Dragon Noir, comme il le fut avant de rejoindre la police. <b>Kabal</b> refusa et forca Kano à l'amener jusqu'à Shao Kahn afin qu'il puisse retourner sur EarthRealm.</p><p>Sur les lieux, Noob Saibot et Mileena remarquèrent la présence de <b>Kabal</b> et l'attaquèrent, en vain. <b>Kabal</b> parvint à s'échapper sur EarthRealm mais il fut interpellé par Cyber Sub-Zero. Après s'être débarrassé du cyborg, <b>Kabal</b> eut à affronter Sheeva, avec succès également. Spectateur de la scène, Raiden invita <b>Kabal</b> à rejoindre ses rangs, tout comme l'avait fait Stryker. Le premier acte notable de <b>Kabal</b> au sein de sa nouvelle équipe fut de reprogrammer Cyber Sub-Zero afin qu'il retrouve la mémoire et s'allie de nouveau avec EarthRealm.</p><p>Désormais réunis, <b>Kabal</b> et Stryker, ainsi que d'autres guerriers de l'EarthRealm, se rassemblèrent au temple afin d'élaborer un plan pour stopper Shao Kahn. Pendant que Raiden et Liu Kang s'entretenaient avec les Dieux Anciens, les autres se retrouvèrent encerclés par les cybogs du Lin Kuei et contraints à se défendre. Mais alors que les héros de l'EarthRealm parvenaient à se débarrasser de leurs opposants, Sindel fit son entrée et tua la plupart d'entre eux. Comme les autres, l'âme de <b>Kabal</b> tomba entre les mains de Quan Chi, qui le changea en zombie.</p>"
+    },
+    "_techniques": {
+        "style1": "Sun bin",
+        "style2": "Gojo Ryu",
+        "style3": ""
+    },
+    "_armes": {
+        "arme1": "HookSwords",
+        "arme2": "",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "<b>Kabal</b> devait au départ s'appeler Sandman lors du développement de Mortal Kombat 3. Il a aussi été question de le faire apparaître en tant que boss dans Mortal Kombat : Special Forces.",
+        "info2": "En hébreu, <b>Kabal (קַבָּל)</b> peut se traduire par <i>condensateur</i>. Alors qu'en arabe (كابال), il signifierait <i>forteresse</i>.",
+        "info3": "Dans son Animality de Mortal Kombat 3, <b>Kabal</b> se change en une espèce de rhinocéros squelettique. Il s'agit en fait d'un Qilin, un animal de la mythologie chinoise, qui est une sorte d'hybride entre un cerf et un cheval, mais avec des écailles."
+    }
+  },   
+  {
+    "_id": {
+      "id": "023",
+      "nom": "Kano",
+      "camp": "Mal",
+      "race": "Humain",
+      "clan":  "Dragon Noir",
+      "origine": "EarthRealm",
+      "residence": "EarthRealm"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "game1.png",
+        "game2": "game2.png",
+        "game3": "game3.png",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "ingame1.jpg",
+        "ingame2": "",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p><b>KANO</b> est le chef du Dragon Noir, une organisation regroupant les pires criminels de l'EARTHREALM. Leurs agissements suscitèrent bien sûr l'attention des forces de l'ordre, et surtout les Forces Spéciales de SONYA et JAX. Pour faire diversion et ainsi les empêcher de le trouver, <b>Kano</b> libéra 4 de ses compères : No-Face, Tasia, Tremor et JAREK et pendant ce temps, il se rendit dans l'OUTWORLD pour y récupérer un artefact appelé l'oeil de Chitian, réputé pour apporter une grande puissance à son porteur. Malheureusement pour lui, Jax l'avait retrouvé et leur combat coûta un oeil à <b>Kano</b>.</p><p>Jax retrouva <b>Kano</b> et après l'avoir vaincu, il utilisa son œil pour retourner sur l'EarthRealm l'enfermer. Après s'être échappé, il entra dans le Mortal Kombat car il entendit des rumeurs comme quoi le palais de SHANG TSUNG renfermait énormément d'or et d'objets précieux. Sonya, déterminée à faire payer <b>Kano</b> pour le meurtre de son coéquipier, le suivit sur l'île de Shang Tsung. Arrivée là-bas, elle fut capturée elle et son escouade et menacée de participer au tournoi sous peine de mourir avec ses hommes. Elle et <b>Kano</b> survécurent et firent équipe avec JOHNNY CAGE pour combattre GORO tandis que LIU KANG s'occupait de Shang Tsung. L'île se mit alors à trembler et <b>Kano</b> et Sonya se retrouvèrent prisonniers de Tsung dans l'OutWorld. </p><p>Jax partit la chercher et emmena <b>Kano</b> avec lui, mais ce dernier réussit à s'échapper encore. Alors que la plupart des guerriers terriens pensaient <b>Kano</b> mort, il s'était fait engagé par SHAO KAHN comme instructeur au maniement des armes pour les guerriers de l'OutWorld. Durant l'invasion de l'EarthRealm par l'empereur, il rencontra Sonya au sommet d'un building et commencèrent leur combat. Sonya pensa le tuer mais quand elle partit, <b>Kano</b> fut soigné par MOTARO et enfermé aussitôt. Il fut libéré par SHEEVA et les 2 complotèrent un plan pour renverser Shao Kahn. Profitant de la faiblesse de la Shokan, <b>Kano</b> se retourna contre elle et sauva son empereur. En guise de remerciement, il le nomma chef des armées de l'OutWorld.</p><p>Après la défaite de Kahn, la Terre fut sauvée mais dans l'OutWorld, <b>Kano</b> continuait sa guerre face à l'alliance Shokan/Edenia dirigée par KITANA. En repoussant ses troupes, il prouva à Shao Kahn qu'il ne s'était pas trompé de général. En retournant au palais, <b>Kano</b> découvrit Shang Tsung et QUAN CHI faisant face à son empereur. Au lieu de l'aider, <b>Kano</b> resta dans l'ombre et décida de rejoindre le camp qui l'emporterait. Shao Kahn vaincu, il offrit ses services aux vainqueurs : l'Alliance Mortelle. Sa première mission fut de surveiller le village de LI MEI, où tous ces habitants étaient forcés de construire un temple au-dessus de la tombe du Roi Dragon afin d'installer le puits d'âme.</p><p><b>Kano</b> se demanda pourquoi un criminel comme lui n'avait pas de mission d'assassinat où autre chose du genre.  Il s'avéra que les 2 sorciers pensaient le livrer à MAVADO, chef du clan rival : le Dragon Rouge, si ce dernier  éliminait KENSHI. Une fois sa mission remplie, <b>Kano</b> fut confronté à son rival et perdit le combat.</p><p>Durant les évènements de l'Armageddon, <b>Kano</b> fut retrouvé par TAVEN emprisonné dans les geôles du QG du Dragon rouge. Il lui confia qu'il étaient en train d'expérimenter sur lui la fusion homme-dragon afin d'en créer une armée. <b>Kano</b> mourut lors de la bataille finale sur la pyramide d'Argus.</p>",
+        "alternative": ""
+    },
+    "_techniques": {
+        "style1": "Xing Yi",
+        "style2": "Aïkido",
+        "style3": ""
+    },
+    "_armes": {
+        "arme1": "couteau",
+        "arme2": "",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "Ed boon a révélé que l'idée de l'oeil laser de <b>Kano</b> venait directement du film Terminator.",
+        "info2": "Dans MK : Deadly Alliance, <b>Kano</b> porte autour du cou une mèche de cheveux de Sonya, symbole de sa haine envers elle.",
+        "info3": ""
+    }
+  }, 
+  {
+    "_id": {
+      "id": "024",
+      "nom": "Kai",
+      "camp": "Bien",
+      "race": "Humain",
+      "clan":  "Lotus Blanc",
+      "origine": "EarthRealm",
+      "residence": "EarthRealm"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "game1.png",
+        "game2": "game2.png",
+        "game3": "",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "",
+        "ingame2": "",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p><b>KAI</b> fait partie des guerriers Gurkha originaires du Népal. Très doué et agile au combat, il est aussi moine Shaolin et manipule le feu, tout comme Liu Kang. Il rencontra d'ailleurs ce dernier lors d'un voyage en Asie et fut invité à le rejoindre au sein de la Société du Lotus Blanc, où il apprit de nombreuses techniques. Durant l'invasion d'Edenia par Shinnok, <b>Kai</b> et Liu Kang rejoignirent Raiden dans la bataille face au Dieu Ancien déchu. Une fois celui-ci vaincu, <b>Kai</b> parcourait l'EearthRealm afin d'accomplir une quête d'illumination. Alors qu'il s'apprêtait à devenir Dieu Ancien, Raiden confia son bâton à <b>Kai</b> afin de l'aider dans sa quête, et peut être qui sait atteindre l'immortalité.</p><p>Plusieurs années s'écoulèrent avant que <b>Kai</b> ne croise le chemin de Shujinko, le guerrier en quête des Kamidogu. Afin de restaurer la Société du Lotus Blanc, détruite par les Tarkatans à l'époque du 21ème tournoi, <b>Kai</b> confia son bâton à Shujinko et lui demanda de le livrer à Kung Lao. Dans la bataille finale sur la pyramide d'Argus, <b>Kai</b> rejoignit les Forces de la Lumière. Il sera tué lors de la bataille finale.</p>",
+        "alternative": ""
+    },
+    "_techniques": {
+        "style1": "Moi Fah",
+        "style2": "",
+        "style3": ""
+    },
+    "_armes": {
+        "arme1": "Kukri",
+        "arme2": "Masse à pics",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "Lorsque vous finissez MK4 avec <b>Kai</b> et que vous recommencez le mode arcade, l'arme de Kai deviendra le bâton de Raiden, conformément à sa cinématique de fin où l'on voit Raiden lui offrir.",
+        "info2": "Tout comme Liu Kang, dont le design serait inspiré entre autres de Bruce Lee, on peut supposer que <b>Kai</b> a été inspiré de Kareem Abdul-Jabaar, l'élève de Bruce Lee.",
+        "info3": ""
+    }
+  },
+  {
+    "_id": {
+      "id": "025",
+      "nom": "Kobra",
+      "camp": "Mal",
+      "race": "Humain",
+      "clan":  "Dragon Noir",
+      "origine": "EarthRealm",
+      "residence": ""
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "",
+        "game2": "",
+        "game3": "",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "ingame1.jpg",
+        "ingame2": "",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p> Pendant trop longtemps, <b>KOBRA</b> se demandait si son art martial : le combat de rue, serait efficace dans la vrai vie. Bien qu'étant inscrit dans une école de karaté, personne ne devait se faire mal. Il quitta alors l'institution et partit dans les quartiers rudes de New York afin de tester ces capacités. Au début il affrontait des petits gangs, puis des voleurs, et enfin des dealers de drogue. L'excitation qu'il ressentait à chaque combat devenait de plus en plus forte, et il commençait à tuer ses adversaires. <b>Kobra</b> devenait un vrai criminel, dévalisant les épiceries et les stations services. Malheureusement pour lui, il se fit attraper par la police de New York et enfermer. Lors de son transfert, il entendit des coups de feu et des cris. Kabal et Kira étaient venus à sa recherche afin de l'enrôler dans leur clan : le Dragon Noir</p><p>Les 3 compères partirent dans l'OutWorld, où ils travaillèrent pour Havik, le clerc du chaos qui sauva la vie de Kabal quelques temps auparavant. Tandis qu'il protégeait l'accès a un pont, <b>Kobra</b> rencontra Taven, le fils d'Argus qui venait de débuter sa quête pour stopper l'Armageddon. <b>Kobra</b> le défia en duel, mais perdit le combat. Lorsque la pyramide d'Argus s'éleva et que les combattants se réunissaient pour la bataille finale, <b>Kobra</b> choisit le camp des Forces de l'Ombre,mais périt dans la bataille.</p>",
+        "alternative": ""
+    },
+    "_techniques": {
+        "style1": "Shorin Ryu",
+        "style2": "Kickboxing",
+        "style3": ""
+    },
+    "_armes": {
+        "arme1": "Machette",
+        "arme2": "bâtons Kali",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "Lors de son développement, <b>Kobra</b> fut appelé Ken Masters, en hommage au personnage de Street Fighter du même nom.",
+        "info2": "",
+        "info3": ""
+    }
+  },    
+  {
+    "_id": {
+      "id": "026",
+      "nom": "Kenshi",
+      "camp": "Bien",
+      "race": "Humain",
+      "clan":  "",
+      "origine": "EarthRealm",
+      "residence": ""
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "",
+        "game2": "",
+        "game3": "",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "ingame1.jpg",
+        "ingame2": "",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p>Tel un vrai guerrier, <b>KENSHI</b> parcourait l'EarthRealm en quête de nouveaux adversaires afin de prouver sa valeur. Il rencontra un jour un homme nommé Song, et ce dernier lui annonça qu'un combattant comme lui méritait une épée à la hauteur de son talent. Il emmena alors <b>Kenshi</b> devant un puits censé renfermer cette puissante épée, qui selon Song lui conviendrait parfaitement. En ouvrant le puits, <b>Kenshi</b> libéra un flot d'âmes qui le rendit aveugle. Song, révélé comme étant en fait Shang Tsung, collecta les âmes et laissa <b>Kenshi</b> agonisant sur place. Mais l'épée dont Tsung parlait existait vraiment. En effet, cette dernière communiqua avec <b>Kenshi</b> et le guida vers son emplacement. Il s'avéra que <b>Kenshi</b> était en fait le descendant des épéistes qui utilisèrent cette épée auparavant, et que ce puits renfermait les âmes de ces ancêtres appartenant désormais à Shang Tsung.</p><p>Durant une décennie, <b>Kenshi</b> développa ses sens et son maniement de l'épée, et son périple le conduisit au Quartier Général des Forces Spéciales. Il y rencontra Jax et Sonya qui, interpellés par ses qualités; l'engagèrent avec eux dans leur cellule d'investigation basée sur OutWorld. <b>Kenshi</b> rejoignit ainsi l'OIA : l'OutWorld Investigation Agency. Sa première mission fut de retrouver l'agent spécial Cyrax porté disparu sur OutWorld. Sur le chemin, il croisa la route d'Ermac, qu'il libéra de l'emprise mentale de Shao Kahn. En échange, le ninja lui apprit les pouvoirs télékinésiques et plus spécialement la faculté de ressentir les autres et les objets.</p><p><b>Kenshi</b> découvrit les plans de l'Alliance Mortelle et voulut en prévenir ses supérieurs, mais le QG fut victime d'un attentat à la bombe lancé par Hsu Hao. Sans qu'il le sache, <b>Kenshi</b> fut découvert et se retrouva confronté à Mavado, envoyé pour le tuer. Ce dernier blessa mortellement l'épéiste et le laissa pour mort. Sub-Zero, qui passait par là, arriva à temps pour le soigner et le sauva d'une mort certaine. Voyant la sympathie du ninja, <b>Kenshi</b> et Sub-Zero firent équipe afin de retrouver le portail vers l'EarthRealm. Au fil du temps, les 2 compères deviendront amis. Après le meurtre de Shang Tsung suite à la résurrection d'Onaga, les âmes des ancêtres de <b>Kenshi</b> retournèrent dans son épée, et lui indiquèrent la marche à suivre. Bien qu'il fut un allié des 2, <b>Kenshi</b> renonça à l'OIA et au Lin Kuei, préférant poursuivre sa quête seul.</p><p>Agissant dans l'ombre, <b>Kenshi</b> démantela plusieurs organisations criminelles et découvrit même les plans du Dragon Rouge, le clan de Mavado, concernant Taven. Avant de pouvoir se rendre à sa cachette, <b>Kenshi</b> rencontra Johnny Cage, qui prévoyait de réunir le plus de combattants possible afin de lutter contre les Forces maléfiques rassemblées par Shinnok. <b>Kenshi</b> refusa de les rejoindre, pensant que ce conflit n'était qu'une énième rixe entre le Bien et le Mal. Mais lorsqu'il reçut la prémonition de l'Armageddon, son épée l'incita à rejoindre les Forces de la Lumière dans la bataille finale qui éclata sur la pyramide d'Argus. Cependant, <b>Kenshi</b> y perdit la vie, tué par Shang Tsung.</p>",
+        "alternative": "<p>Réalité alternative (Mortal Kombat 9) :</p><p>Dans cette réalité, <b>Kenshi</b> fut également aveuglé après sa rencontre avec Shang Tsung. Mais cette fois-ci, il décida de participer au Mortal Kombat pour avoir une chance de l'affronter. Juste après que Sub-Zero se fasse capturer par le Lin Kuei afin d'être automatisé, <b>Kenshi</b> fut appelé à combattre contre Reiko. Nul ne sait quelle fut l'issue de ce combat.</p>"
+    },
+    "_techniques": {
+        "style1": "Judo",
+        "style2": "Tai Chi",
+        "style3": "San Shou"
+    },
+    "_armes": {
+        "arme1": "katana",
+        "arme2": "",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "En Japonais, <b>Kenshi</b> signifie épéiste, mais est aussi un dérivé de Kensei (剣聖) qui signifie maître de l'épée.",
+        "info2": "Au départ, <b>Kenshi</b> s'appelait <i>Blind Gi</i>, puis <i>Blind Kenshi</i>.",
+        "info3": "Le fait qu'il soit aveugle immunise <b>Kenshi</b> du <i>Death Kiss</i> de Sonya et Kira, qui agit principalement sur les yeux."
+    }
+  },  
+  {
+    "_id": {
+      "id": "027",
+      "nom": "Khameleon",
+      "camp": "Bien",
+      "race": "Saurien",
+      "clan":  "",
+      "origine": "Zaterra",
+      "residence": "OutWorld"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "",
+        "game2": "",
+        "game3": "",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "",
+        "ingame2": "",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p><b>KHAMELEON</b> est la 3ème et dernière survivante de la race Saurienne originaire de Zaterra, mais elle est aussi la seule femelle. Afin de repeupler sa race, elle s'était donc mise à rechercher Reptile sans relâche. Mais ce dernier n'avait d'yeux que pour Shao Kahn, son empereur, et ne fit donc pas attention à la présence de <b>Khameleon</b>. Elle arriva finalement à lui parler, mais Reptile ne la crut pas et l'attaqua. Déterminée à retrouver un jour son monde natal, elle se mit à parcourir les Royaumes en quête d'une solution.</p><p>Lorsqu'elle prit connaissance de la bataille finale qui se préparait sur Edenia et le pouvoir qu'obtiendrait celui ou celle qui réussirait à atteindre le sommet de la pyramide d'Argus pour y affronter Blaze, <b>Khameleon</b> saisit sa chance et participa à cette guerre. Elle fut malheureusement tuée avant de pouvoir réaliser son rêve.</p>",
+        "alternative": ""
+    },
+    "_techniques": {
+        "style1": "Eagle Claw",
+        "style2": "",
+        "style3": ""
+    },
+    "_armes": {
+        "arme1": "Falchion",
+        "arme2": "",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "Parmi tous les personnages de la franchise, <b>Khameleon</b> est la seule qui ne devait pas apparaître dans Mortal Kombat Armageddon. Mais suite à la pression des fans, les créateurs ont finalement accepté de la faire apparaître, mais sur la version Wii seulement.",
+        "info2": "",
+        "info3": ""
+    }
+  },    
+  {
+    "_id": {
+      "id": "028",
+      "nom": "Kintaro",
+      "camp": "Mal",
+      "race": "Shokan",
+      "clan":  "",
+      "origine": "OutWorld",
+      "residence": "OutWorld"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "",
+        "game2": "",
+        "game3": "",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "ingame1.jpg",
+        "ingame2": "",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p><b>KINTARO</b> est un Shokan au même titre que Sheeva et Goro. En apprenant la mort de ce dernier des mains de Liu Kang lors du Mortal Kombat, il jura de le venger en écrasant le nouveau champion ainsi que ses amis. <b>Kintaro</b> se rendit donc sur EarthRealm avec une horde de Tarkatans et tenta de tuer Johnny Cage, mais ce dernier fut rejoint par les guerriers de Raiden. <b>Kintaro</b> échoua, gardant malgré tout les faveurs de l'empereur. Lorsque Liu Kang vainquit une 2nde fois Shang Tsung au Mortal Kombat, <b>Kintaro</b> le défia lui et Kung Lao, mais fut également battu.</p><p>Durant l'Armageddon, <b>Kintaro</b>, Sheeva et Havik tentèrent de tuer Shinnok dans sa forteresse au NetherRealm. Le Dieu Ancien demanda alors à Taven de les battre, ce qu'il fit. Mais il s'avéra qu'ils n'étaient tous que des illusions crées par le sorcier. Le vrai <b>Kintaro</b> rejoint quand à lui les Forces de l'Ombre mais fut tué dans la bataille qui éclata au pied de la pyramide d'Argus.</p>",
+        "alternative": "<p>Réalité alternative (Mortal Kombat 9) :</p><p>Après la victoire de Kung Lao face au duo Quan Chi / Shang Tsung, <b>Kintaro</b> fut désigné pour affronter le shaolin, mais perdit également son combat. Durant l'invasion de l'EarthRealm, <b>Kintaro</b> brûla sévèrement Kabal, avant d'être neutralisé par Stryker. Plus tard, alors qu'il surveillait des prisonniers avec Goro, Kano et Cyber Sub-Zero, ce dernier les trahit et les gela tous les 3. Alors qu'il libérait les captifs, le cyborg fut attaqué par les 2 Shokans, libérés de leur prison de glace. Mais Goro et c furent vaincus, permettant alors à Cyber Sub-Zero de s'enfuir avec les prisonniers. </p>"
+    },
+    "_techniques": {
+        "style1": "Poing du Tigre",
+        "style2": "",
+        "style3": ""
+    },
+    "_armes": {
+        "arme1": "Dents de Sabre",
+        "arme2": "",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "<b>Kintaro</b> est le personnage de Mortal Kombat qui détient le plus longue série d'absences consécutives dans les jeux de la franchise (de Mortal Kombat 3 à Mortal Kombat Deception).",
+        "info2": "Tout comme Motaro (avec Momotarô), <b>Kintaro</b> semble avoir un lien avec Kintarô, un petit garçon du folklore japonais",
+        "info3": ""
+    }
+  },       
+  {
+    "_id": {
+      "id": "029",
+      "nom": "Kira",
+      "camp": "Mal",
+      "race": "Humain",
+      "clan":  "Dragon Noir",
+      "origine": "EarthRealm",
+      "residence": ""
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "",
+        "game2": "",
+        "game3": "",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "ingame1.png",
+        "ingame2": "ingame1.png",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p><b>KIRA</b> est une femme très maline usant de subterfuges pour arriver à ses fins. Lors d'un voyage en Afghanistan, elle se déguisa en homme et se réfugia dans une cave pour vendre des armes aux organisations terroristes, empochant ainsi beaucoup d'argent. Mais son identité fut découverte et <b>Kira</b> dut se battre pour survivre. La rixe fut sanglante, mais elle en ressortit vivante. A la sortie de la cave se trouvait Kabal, attendant sagement la fin du combat. Dans le but de reformer le Dragon Noir, il était venu ici à la recherche de nouvelles recrues. <b>Kira</b> étant la seule survivante, il la recruta dans ses rangs.</p><p>Kabal, Kobra et <b>Kira</b> de nombreuses missions ensemble jusqu'à ce que l'Armageddon se produise, regroupant tous les kombattants au pied de la pyramide d'Argus. <b>Kira</b> participa à la bataille mais fut tuée comme ses 2 compères.</p>",
+        "alternative": ""
+    },
+    "_techniques": {
+        "style1": "Xing Yi",
+        "style2": "Kenpo",
+        "style3": "Yuan Yang"
+    },
+    "_armes": {
+        "arme1": "Dents de Dragon",
+        "arme2": "",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "<b>Kira</b> est un dérivé de Killer (tueuse en anglais) lorsqu'on l'écrit en Kana (caractères japonais).",
+        "info2": "Dans ces coups spéciaux, <b>Kira</b> est un mélange de Kano et Sonya. Ces deux n'apparaissant pas dans MK Deception, on peut penser que les développeurs ont voulu faire d'une pierre deux coups en créant <b>Kira</b>.",
+        "info3": "<b>Kira</b> peut être vue enchaînée dans le colisée de Kahn sur la version PSVita de Mortal Kombat 9"
+    }
+  },    
+  {
+    "_id": {
+      "id": "030",
+      "nom": "Kitana",
+      "camp": "Bien",
+      "race": "Edenianne",
+      "clan":  "",
+      "origine": "Edenia",
+      "residence": "Edenia"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "game1.png",
+        "game2": "game2.png",
+        "game3": "game3.png",
+        "game4": "game4.png",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "",
+        "ingame2": "",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p><b>KITANA</b> est la fille de JERROD et SINDEL, respectivement Roi et Reine d'EDENIA. Intéressé par ce Royaume, SHAO KAHN, l'empereur d'OUTWORLD voulut le conquérir, et défia donc Edenia au Mortal Kombat. Victorieux, Kahn tua le Roi et s'appropria sa femme et sa fille. Bouleversée par la mort de son mari, Sindel se suicida, laissant <b>Kitana</b> orpheline durant des milliers d'années. Elle considéra cependant Kahn comme son vrai père, ce dernier lui cachant la vérité. <b>Kitana</b> passa son enfance avec JADE, sa meilleure amie et MILEENA, son clone maléfique crée par SHANG TSUNG. Les 3 femmes devinrent au fil du temps de véritables assassins au service de Shao Kahn</p><p><b>Kitana</b> découvrit finalement la vérité sur son passé, mais feignit toujours sa loyauté envers Kahn, attendant patiemment le moment propice pour se révolter. Après la défaite de Shang Tsung durant le Mortal Kombat se déroulant sur EARTHREALM, Kahn décida d'attirer les Terriens sur l'OutWorld afin d'en disputer un nouveau. En voyant arriver les guerriers de RAIDEN, <b>Kitana</b> décida de participer au tournoi afin d'entrer en contact avec eux, plus précisément avec LIU KANG, le champion de l'EarthRealm. Une alliance puis une idylle nacquit, mais ne resta pas secrète très longtemps. En effet, Mileena, charge d'espionner sa <i>soeur</i>, assista à cette alliance et décida de l'attaquer. Cette dernière répliqua par légitime défense et tua son clone maléfique, révélant au grand jour son changement de camp. Le tournoi de poursuivit et vit la victoire de Liu Kang sur Shao Kahn. Les Terriens quittèrent l'OutWorld mais Kahn retint <b>Kitana</b> et l'enferma pour trahison.</p><p>Furieux de sa défaite, Kahn ressuscita Sindel sur l'EarthRealm, créant ainsi un portail avec l'OutWorld. Il lança alors ses troupes et démarra l'invasion de l'EarthRealm. Profitant de ce chaos, <b>Kitana</b> parvint à s'échapper et tenta aussitôt de trouver un moyen de briser le sort envoûtant sa mère. Tenu au courant de son évasion, Kahn ordonna à Jade et REPTILE de retrouver <b>Kitana</b>. Lorsqu'ils la retrouvèrent, cette dernière parvint à convaincre Jade de la rejoindre aux côtés des guerriers de l'EarthRealm, ce qu'elle accepta. Les deux jeunes femmes de nouveau réunies s'allièrent pour venir à bout de Reptile, puis continuèrent leur route. Finalement, <b>Kitana</b> retrouva Sindel et parvint à annuler le sort, réunissant ainsi à nouveau la mère et sa fille. Après la nouvelle défaite de Kahn (et son apparente mort), <b>Kitana</b> remercia Liu Kang pour son héroïsme. Elle et sa mère repartirent sur Edenia pour y occuper le trône, libéré de l'emprise de l'OutWorld.</p><p>Edenia connut une courte période de paix jusqu'au jour où SHINNOK, le Dieu Ancien déchu, arriva du NETHERREALM avec son armée du chaos et s'empara du Royaume. <b>Kitana</b> se retrouva de nouveau emprisonnée mais, les prisons n'ayant plus de secret pour elle, parvint à s'échapper une nouvelle fois. Durant sa fuite, elle se retrouva nez-à-nez avec Mileena, devenue assassin pour Shinnok. Les deux femmes combattirent et <b>Kitana</b> gagna à nouveau et enferma sa victime dans une cellule. Une fois libre, <b>Kitana</b> rejoint Raiden et les forces de l'EarthRealm dans leur combat contre Shinnok. Le sorcier fut vaincu, et Edenia fut libérée à nouveau grâce à Liu Kang. Pour le remercier, <b>Kitana</b> lui proposa de gouverner Edenia à ses côtés, ce qu'il refusa. En effet, se lier à <b>Kitana</b> supprimerait le lien qui lie Liu Kang à l'EarthRealm, l'empêchant ainsi de le protéger à l'avenir.</p><p>Après la mort de Shinnok, <b>Kitana</b> apprit que Shao Kahn survécut à ses blessures et qu'il retrouvait peu à peu des forces. Voyant cela comme une menace immédiate pour Edenia, <b>Kitana</b> forma une alliance entre les Edenians et les Shokans, puis rallia ensuite à sa cause les Centaures. Cette immense armée, formée et dirigée par <b>Kitana</b> et GORO, partit en guerre contre les forces de l'OutWorld et connut un large succès. Cependant, au moment décisif qui allait mettre un terme au conflit, Goro fut mortellement blessé par NOOB SAIBOT, forçant les troupes de <b>Kitana</b> à battre retraite.</p><p>Pleurant la mort de son ami Shokan, <b>Kitana</b> se consola en apprenant la mort de Shao Kahn, victime de deux individus inconnus. Alors qu'elle repartait pour Edenia, <b>Kitana</b> croisa la route de KUNG LAO, partit à sa rencontre pour lui annoncer une terrible nouvelle : la mort de Liu Kang. Dévastée par cette nouvelle, elle jura de venger sa mort et rejoignit les forces de l'EarthRealm pour anéantir ses meurtriers : QUAN CHI et Shang Tsung. Une fois arrivés dans le palais de ce dernier, <b>Kitana</b> et ses amis furent tués par les deux sorciers, laissant Raiden seul face au duo. Les 3 hommes combattirent intensément jusqu'à ce qu'un nouveau protagoniste se mêle au combat : ONAGA, le roi Dragon, nouvellement ressuscité ! Face à ce monstre, Raiden, Quan Chi et Shang Tsung allièrent leurs forces, mais ne parvinrent pas à le stopper. Dans une ultime tentative, Raiden se sacrifia, emportant dans la déflagration les 2 sorciers. Mais Onaga ne fut pas affecté par cette attaque, et surgit des décombres intact. Désireux de retrouver son trône sur OutWorld, il ressuscita les guerriers de l'EarthRealm (dont <b>Kitana</b>) et les envoûta pour s'en servir comme gardes du corps.</p><p><b>Kitana</b> fut utilisée pour capturer Sindel, Onaga sachant parfaitement que cette dernière n'aurait jamais tenté de lever la main sur sa fille. La reine fut donc emprisonée, mais libérée quelques temps plus tard par Jade. Les deux femmes partirent ensuite à la recherche de <b>Kitana</b>, pour tenter de la sauver. Pendant ce temps, l'âme de Liu Kang surgit d'entre les morts et se lia d'amitié avec ERMAC. Les 2 hommes s'allièrent pour libérer un par un les guerriers de l'EarthRealm de l'emprise d'Onaga, et c'est ainsi que <b>Kitana</b> fut sauvée.</p><p>Epuisée mentalement par tous ces conflits sans fin, <b>Kitana</b> ne fut pas étonnée d'apprendre qu'une nouvelle guerre allait voir le jour. Selon BLAZE, venu à la rencontre de <b>Kitana</b> pour lui annoncer la nouvelle, cette guerre allait opposer tous les combattants et provoquera la destruction des royaumes. Alors qu'elle perdit espoir, l'élémental lui assura que ces conflits ne dureront pas éternellement, et lui proposa donc de former une armée. Avec FUJIN ou encore JOHNNY CAGE, <b>Kitana</b> rassembla tous les guerriers qu'elle put et c'est ainsi que les Forces de la Lumière naquirent. Face à cette armée, les Forces de l'Ombre, composée de tous les anciens et récents ennemis d'Edenia et de l'EarthRealm.</p><p>La grande guerre éclata finalement, et les pertes furent énormes. Seul Shao Kahn survécut au combat, <b>Kitana</b> ayant péri comme ses amis durant cette bataille que Délia appela <i>Armageddon</i>.</p>",
+        "alternative": ""
+    },
+    "_techniques": {
+        "style1": " Eagle Claw",
+        "style2": "Ba Gua",
+        "style3": "Yuan Yang"
+    },
+    "_armes": {
+        "arme1": "Eventails",
+        "arme2": "Epée volante",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "Le design de <b>Kitana</b> dans Mortal Kombat Gold reprend le visage de Talisa Soto, l'actrice ayant joué <b>Kitana</b> dans les 2 films Mortal Kombat.",
+        "info2": "Ed Boon révéla lors d'une interview que la fatality de <b>Kitana</b> <i>Le baiser de la mort</i> était inspirée de la mort du vilain dans Vivre ou laisser mourir, où James Bond fait avaler au Dr Kananga une pilule qui le fait gonfler jusqu'à exploser.",
+        "info3": ""
+    }
+  },   
+  {
+    "_id": {
+      "id": "031",
+      "nom": "Kung Lao",
+      "camp": "Bien",
+      "race": "Humain",
+      "clan":  "Lotus Blanc",
+      "origine": "EarthRealm",
+      "residence": "EarthRealm"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "game1.png",
+        "game2": "game2.png",
+        "game3": "game3.png",
+        "game4": "game4.png",
+        "game5": "game5.png",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "ingame1.png",
+        "ingame2": "",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p><b>KUNG LAO</b> est le descendant du Grand <b>Kung Lao</b>, celui qui fut tué par GORO lors du Mortal Kombat. Membre de l'Ordre de la Lumière comme LIU KANG, <b>Kung Lao</b> fut au départ choisi pour représenter l'EARTHREALM au tournoi. Conscient des responsabilités qu'il aurait si il devenait le Grand Champion, il déclina l'invitation, Liu Kang y participant à sa place. Ce dernier gagna finalement le tournoi face à Goro, dont la victoire provoqua la destruction de l'île de SHANG TSUNG. Se réfugiant sur EarthRealm, Liu Kang et <b>Kung Lao</b> découvrirent les cadavres de leurs camarades shaolins, tués par BARAKA et sa horde de Tarkatans</p><p>Désireux de venger leurs camarades shaolins, Liu Kang et <b>Kung Lao</b> se rendirent sur OUTWORLD, tombant ainsi dans le piège de SHAO KAHN, qui désira justement les attirer dans son Royaume. Après une longue épopée, <b>Kung Lao</b> assista à la 2nde victoire de Liu Kang au Mortal Kombat et se jura de reformer le Lotus Blanc. Malheureusement, Shao Kahn ne fut pas vaincu et démarra l'invasion de l'EarthRealm. Se retrouvant face à lui, <b>Kung Lao</b> tenta d'attaquer l'empereur mais ce dernier le blessa gravement, le laissant pour mort. Apprenant la nouvelle, Liu Kang devint furieux et forma avec RAIDEN une alliance des meilleurs combattants de l'EarthRealm. A la fin du conflit, Liu Kang vainquit pour la 2nde fois Shao Kahn, et sauva l'EarthRealm pour la 3ème fois consécutive.</p><p>La paix revenue, <b>Kung Lao</b> profita de la rumeur de sa mort pour se retirer et vivre une vie de solitude en respect pour ses ancêtres. Mais il n'y resta pas longtemps : Goro, le shokan qui tua son ancêtre, était encore en vie et servait désormais SHINNOK, le Dieu Ancien déchu. Après la défaite de ce dernier, <b>Kung Lao</b> alla à la rencontre de Goro et l'attaqua. Il lui infligea une large blessure avec son chapeau, mais ne le tua cependant pas. En effet, cette attaque symbolisa selon <b>Kung Lao</b> la vengeance nécessaire à la mémoire de son ancêtre, le Grand <b>Kung Lao</b> . Désormais quittes, Goro et <b>Kung Lao</b> se serrèrent la main.</p><p>Plus tard, une alliance mortelle se forma entre les 2 sorciers Shang Tsung et QUAN CHI. Leur but : conquérir tous les Royaumes. Leurs cibles : Shao Kahn, affaibli mais toujours vivant, et Liu Kang, quadruple champion du Mortal Kombat. Le shaolin fut tué des mains de Tsung, rendant <b>Kung Lao</b> furieux. Désireux de venger son ami mais conscient de ses faiblesses, <b>Kung Lao</b> suivit l'entraînement de BO' RAI CHO. Il rassembla ensuite avec Raiden les meilleurs guerriers de l'EarthRealm et tous se rendirent au Palais de Tsung. <b>Kung Lao</b> y confronta ce dernier, mais fut tué, tout comme les autres. Raiden, le seul survivant, fit face aux deux sorciers mais perdit le combat. C'est alors qu'ONAGA fit son apparition et obligea Raiden à se sacrifier.</p><p>Onaga, seul survivant de la déflagration, émergea des décombres et se servit de ses pouvoirs pour ressusciter les guerriers de l'EarthRealm, <b>Kung Lao</b> y compris, afin qu'ils deviennent ses serviteurs. Il sera finalement libéré de son emprise par ERMAC, aidé de l'esprit de Liu Kang.</p><p>Après la défaite d'Onaga, une alliance regroupant tous les vilains vit le jour : les Forces de l'Ombre. Leur objetcif : atteindre le pouvoir ultime représenté par BLAZE, l'élémental crée pour empêcher l'Armageddon. De l'autre côté, <b>Kung Lao</b> , FUJIN, JOHNNY CAGE et les autres guerriers de l'EarthRealm créèrent les Forces de la Lumière afin de les affronter. La bataille ultime éclata au pied de la Pyramide d'Argus, où <b>Kung Lao</b> y trouva la mort, tué par Shinnok.</p>",
+        "alternative": ""
+    },
+    "_techniques": {
+        "style1": "Mantis",
+        "style2": "Shaolin Fist",
+        "style3": "Kenpo"
+    },
+    "_armes": {
+        "arme1": "Hâche",
+        "arme2": "BroadSword",
+        "arme3": "Chapeau" 
+    },
+    "_infos": {
+        "info1": "",
+        "info2": "",
+        "info3": ""
+    }
+  },     
+  {
+    "_id": {
+      "id": "032",
+      "nom": "Li Mei",
+      "camp": "Bien",
+      "race": "OutWorlder",
+      "clan":  "",
+      "origine": "OutWorld",
+      "residence": "OutWorld"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "game1.png",
+        "game2": "game2.png",
+        "game3": "",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "",
+        "ingame2": "",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p><b>LI MEI</b> vit dans l'OutWorld et plus précisément dans le village de Sun Do. Lorsque l'Alliance Mortelle se forma, Shang Tsung voulait construire son Palais autour du Puits d'Ame, mais il avait besoin de mains pour le bâtir. Il demanda alors à Kano et ses troupes de capturer tous les habitants du village, mais <b>Li Mei</b> se rebella, attirant l'attention de Quan Chi. Ce dernier lui proposa de gagner sa liberté à condition qu'elle remporte un <i>tournoi</i>, ce qu'elle accepta. Elle aperçut alors parmi les prisonniers <i>le soi-disant Champion des Dieux Anciens</i> Shujinko, et lui demanda son aide. Il accepta de l'entraîner mais il sentait au fond de lui que les chances de <b>Li Mei</b> de remporter la victoire étaient minces.</p><p>Alors qu'elle se retrouva face à l'Alliance Mortelle, <b>Li Mei</b> perdit son combat et Quan Chi commença alors le processus de transfert de son âme vers un des soldats inanimés de l'armée du Roi Dragon. C'est à ce moment là que Bo' Rai Cho surgit et mit un terme à l'opération. <b>Li Mei</b> fut sauvée mais une partie de l'âme du guerrier zombie, destiné à être son nouvel hôte, entra en elle, modifiant son caractère et améliorant ses capacités de combat.</p><p>Durant l'Armageddon, <b>Li Mei</b> rejoignit les Forces de la Lumière dans la bataille qui éclata au pied de la pyramide d'Argus. Lors de leur assaut face aux Forces de l'Ombre, <b>Li Mei</b> fut la première à se faire tuer, transpercée par la lance d'Hotaru.</p>",
+        "alternative": ""
+    },
+    "_techniques": {
+        "style1": "Baji Quan",
+        "style2": "Lui He Ba Fa",
+        "style3": "Mi Zong"
+    },
+    "_armes": {
+        "arme1": "Sai",
+        "arme2": "Kunlun Dao",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "<b>Li Mei</b> signifie <i>Prune</i> en mandarin. La couleur mauve prédominante dans son costume le montre bien d'ailleurs.",
+        "info2": "",
+        "info3": ""
+    }
+  },   
+  {
+    "_id": {
+      "id": "033",
+      "nom": "Liu Kang",
+      "camp": "Bien",
+      "race": "Humain",
+      "clan":  "Lotus Blanc",
+      "origine": "EarthRealm",
+      "residence": "EarthRealm"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "game1.png",
+        "game2": "game2.png",
+        "game3": "game3.png",
+        "game4": "game4.png",
+        "game5": "game5.png",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "ingame1.png",
+        "ingame2": "",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p>Orphelin dès son plus jeune âge, <b>Liu Kang</b> fut recueilli par les Moines Shaolin et emmené dans leur Temple dissimulé dans les montagnes de la Province de Honan, en Chine. Là-bas, il rejoignit l'Ordre de la Lumière, et apprit les enseignements du Grand Kung Lao à la Wu Shi Academy, où il développa ses talents de combattant.</p><p>Voyant en lui l'espoir n°1 pour la survie de l'EARTHREALM, RAIDEN, le Dieu du Tonnerre et Protecteur de l'EarthRealm, emmena <b>Liu Kang</b> dans l'OUTWORLD à la rencontre du Maître BO' RAI CHO afin qu'il puisse compléter sa formation. Une fois son entraînement terminé, <b>Liu Kang</b> rejoignit la Société secrète du Lotus Blanc, organisation crée par Raiden rassemblant les meilleurs guerriers de l'EarthRealm. Wu, le Grand Maître Shaolin, désigna <b>Liu Kang</b> comme représentant du Royaume lors du 10ème tournoi du Mortal Kombat. Il fit alors le serment de remporter le tournoi et de restaurer l'honneur des shaolins.</p><p>En chemin vers l'île de SHANG TSUNG, <b>Liu Kang</b> se lia d'amitié avec JOHNNY CAGE et SONYA BLADE. Une fois arrivés, les 3 combattants furent accueillis par Shang Tsung, le maître des lieux mais aussi l'hôte du tournoi. Etant donné que l'OutWorld comptabilisait 9 victoires consécutives, et que la 10ème était synonyme de conquête de l'EarthRealm, l'enjeu était de taille. Néanmoins, <b>Liu Kang</b> battit tous ses adversaires et fit face à GORO, le champion en titre. Grâce, entre autres, au surplus de confiance du Shokan, <b>Liu Kang</b> sortit victorieux et devint le nouveau Champion du Mortal Kombat.</p><p>Ne pouvant accepter la défaite de son poulain, Shang Tsung le défia. Après un long et impressionnant combat, <b>Liu Kang</b> réussit à vaincre le sorcier en utilisant le <i>Flying Kick</i>, l'une des techniques de Bo'Rai Cho. La défaite de Shang Tsung provoqua la destruction de son ile, et <b>Liu Kang</b> retourna vers l'EarthRealm.</p><p>De retour au Temple, <b>Liu Kang</b> découvrit les corps de ses amis Moines, tués par les hordes de Tarkatans, créatures envoyées par Shang Tsung. Furieux, <b>Liu Kang</b> décida de retourner dans l'OutWorld à la recherche du sorcier, accompagné de Johnny Cage, JAX (à la recherche de Sonya), SMOKE, SUB-ZERO (2 ninjas du Lin Kuei, à la recherche de Scorpion) et KUNG LAO, son frère spirituel.</p><p>Durant leur voyage, <b>Liu Kang</b> rencontra la princesse KITANA, qui lui apprit le réel but du tournoi. Il tomba amoureux d'elle, mais continua sa route. Une fois dans l'arène de SHAO KAHN, <b>Liu Kang</b> fut attaqué par Kintaro et Shang Tsung, rajeuni, mais parvint à les vaincre. Shao Kahn se leva alors de son trône et les 2 hommes s'affrontèrent. <b>Liu Kang</b> surpassa l'empereur mais ce dernier, n'acceptant pas sa défaite, déclara la guerre et envoya ses troupes envahir l'EarthRealm.</p><p>En effet, un passage entre les 2 royaumes s'était ouvert, permettant à Kahn d'y envoyer ses armées. Il commença alors à absorber les âmes des humains et les 2 royaumes commencèrent à fusionner. Raiden dévoila à <b>Liu Kang</b> la raison de cet apocalypse : SINDEL, l'ancienne Reine de Shao Kahn, fut ressuscitée par Shang Tsung sur EarthRealm. Le lien légitime qui les unissait permit à Shao Kahn d'ouvrir un portail, contournant ainsi les règles du Mortal Kombat.</p><p>Désormais en pleine apocalypse, <b>Liu Kang</b> et Raiden rassemblèrent les meilleurs guerriers de l'EarthRealm et se lancèrent dans la bataille. Durant la guerre, Kung Lao fut gravement blessé par Shao Kahn, ce qui rendit furieux <b>Liu Kang</b>. Il défia à nouveau l'empereur et réussit à le vaincre, libérant ainsi l'EarthRealm. Juste avant que les portes inter-royaumes de ne referment, Kitana adressa un message de remerciement à son héros.</p><p><b>Liu Kang</b> se mit ensuite à voyager afin de former de nouveaux combattants Shaolin (parmi eux son vieil ami : KAI). Mais cette paix fut de courte durée car SHINNOK, le Dieu Ancien déchu, s’échappa du NETHERREALM via un portail menant à EDENIA. Apprenant la capture de Kitana et afin d’aider Raiden, Liu rassembla les guerriers de l’EarthRealm pour cette nouvelle bataille. Victorieux du sorcier mais croyant avoir perdu sa princesse pour toujours, il retourna au temple se recueillir. C’est alors que Kitana lui apparut et l’invita à la rejoindre sur le trône d’Edenia, ce que Liu refusa, son statut de champion de Mortal Kombat lui donnant déjà trop de responsabilités.</p><p>Peu de temps après, Shang Tsung et QUAN CHI formèrent une alliance afin de tuer les 2 personnes susceptibles d’arrêter leurs plans : Shao Kahn et <b>Liu Kang</b>. Pour vaincre ce dernier, Shang Tsung prit l'apparence de Kung Lao et approcha le champion durant sa méditation. Le combat démarra, <b>Liu Kang</b> prit l'avantage, mais Quan Chi l'attaqua par derrière, permettant à Shang Tsung de l'achever. Apprenant que son ami fut tué, Kung Lao décida avec Raiden et tous les guerriers de l'EarthRealm de se lancer dans la bataille. La plupart d’entre eux furent tués et le Dieu se retrouva seul face au duo de sorciers. Leur terrible bataille fut interrompue par la résurrection d’ONAGA. Raiden se sacrifia pour tenter de le vaincre mais son esprit devint corrompu par le Roi Dragon. Il partit alors à la recherche du corps de <b>Liu Kang</b>, exhuma son corps et lui attacha des chaînes ensorcelées, le faisant devenir son pantin.</p><p>Voyant son corps devenir une machine à tuer, l’âme de <b>Liu Kang</b>, libérée suite à la mort de Shang Tsung, chercha un moyen de stopper son corps, et comment sauver ses amis désormais sous l’emprise d’Onaga. Il trouva un allié en la personne d'ERMAC, qui l'aida à libérer ses amis.</p><p>Durant l’Armageddon, l’âme de <b>Liu Kang</b> trouva refuge aux côtés de Kitana, qui ne pouvait cependant pas supporter cette nouvelle puissance. Pour la soulager, NIGHTWOLF décida d'être le nouveau point d'ancrage de l'âme de Liu jusqu'à ce qu'une solution puisse être trouvée... Son corps se rendit à la pyramide d'Argus pour la bataille finale, mais fut tué.</p>",
+        "alternative": ""
+    },
+    "_techniques": {
+        "style1": "Jeet Kune Do",
+        "style2": " Pao Chui",
+        "style3": "Dragon"
+    },
+    "_armes": {
+        "arme1": "épée du Dragon",
+        "arme2": "Nunchaku",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "<b>Liu Kang</b> devait au départ s'appeler Minamoto Yo Sin Shoo dans Mortal Kombat 1. Emprunté dans la mythologie Japonaise, ce nom ne put cependant pas être utilisé et par conséquent John Tobias abandonna l'idée.",
+        "info2": "La fatality de <b>Liu Kang</b> dans Mortal Kombat 1 est la seule du jeu à ne pas être gore et à s'exécuter sans écran sombre. La raison à cela se trouve dans la bio du personnage, où il est décrit comme non violent. Cependant, à partir du 2ème opus, <b>Liu Kang</b> aura ses propres fatalités gores comme les autres personnages, sa bio le décrivant désormais comme un shaolin renégat",
+        "info3": ""
+    }
+  }, 
+  {
+    "_id": {
+      "id": "034",
+      "nom": "Mavado",
+      "camp": "Mal",
+      "race": "Humain",
+      "clan":  "Dragon rouge",
+      "origine": "EarthRealm",
+      "residence": "EarthRealm"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "",
+        "game2": "",
+        "game3": "",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "ingame1.jpg",
+        "ingame2": "",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p><b>MAVADO</b> fait partie du Dragon Rouge et est le bras droit de Daegon, son fondateur. Contrairement à Kano, qui utilise la force brute et la peur, <b>Mavado</b> est discipliné et se sert de son intelligence pour combattre. Son principal objectif était l'extermination du Dragon Noir, dont Kano fait partie. Pour y parvenir sans pour autant dévoiler l'existence de son clan, <b>Mavado</b>  envoya Hsu Hao infiltrer les Forces Spéciales afin de pouvoir se rapprocher et d'ensuite tuer les derniers membres du clan rival. Hsu Hao accomplit pleinement cette mission.</p><p>Après la bataille contre Shinnok, qui vit la mort présumée de Jarek des mains de Jax, et celle de Kabal de ses propres mains (il lui prit même ses HookSwords en guise de trophée), <b>Mavado</b>  fut contacté par l'Alliance Mortelle (Quan Chi / Shang Tsung) afin d'éliminer Kenshi. En échange, les 2 sorciers lui livreraient le dernier membre du Dragon Noir : Kano, qui travaillait actuellement pour eux en tant que général. Ils demandèrent aussi à <b>Mavado</b>  qu'il détruise les portails inter-royaumes de l'OIA, qui leur permettaient de pénétrer dans l'OutWorld à leur guise. Hsu Hao se chargea de cette deuxième mission, tandis que <b>Mavado</b>  partit à la recherche de Kenshi. Il réussit à le vaincre et par conséquent, Kano lui fut livré. Au lieu de le tuer, il décida de l'enfermer dans le QG du Dragon Rouge.</p><p>Sa victoire fut de courte durée : en effet, Kabal avait échappé à la mort grâce à Havik, et avait juré de retrouver <b>Mavado</b>  pour se venger. Leur 2ème rencontre eut une toute autre issue : <b>Mavado</b>  fut vaincu et laissé pour mort. Mais une fois remis sur pied, il reprenait ses agissements dans le Dragon Rouge et se fabriqua ses propres HookSwords.</p><p><b>Mavado</b>  parvint à trouver la localisation de Blaze et en informa son supérieur Daegon, qui décida de se rendre là-bas. Avant de partir, il chargea <b>Mavado</b> de tuer son frère Taven, qui avait infiltré les lieux. Ce dernier réussit à vaincre <b>Mavado</b>, mais avant que le QG ne se détruise, les 2 hommes parvinrent à s'échapper. Durant la bataille finale, <b>Mavado</b> rejoignit les Forces de l'Ombre et se fera tuer.</p>",
+        "alternative": ""
+    },
+    "_techniques": {
+        "style1": "Poing Long",
+        "style2": "Wing Chun",
+        "style3": ""
+    },
+    "_armes": {
+        "arme1": "HookSwords",
+        "arme2": "grappin",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "Le nom original de <b>Mavado</b> devait être Malvado, qui signifie en espagnol <i>Maléfique</i>.",
+        "info2": "",
+        "info3": ""
+    }
+  },  
+  {
+    "_id": {
+      "id": "035",
+      "nom": "Meat",
+      "camp": "",
+      "race": "",
+      "clan":  "",
+      "origine": "OutWorld",
+      "residence": ""
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "",
+        "game2": "",
+        "game3": "",
+        "game4": "",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "",
+        "ingame2": "",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p><b>MEAT</b> est le résultat d'une des nombreuses expériences de Shang Tsung venant du Puits de Chair. Cependant, il échappa au sorcier avant d'être complété, ce qui explique son apparence : un corps sans peau. <b>Meat</b> ne ressent pas la douleur et s'auto-régénère, lui permettant d'utiliser ses membres pour combattre. Depuis son évasion, personne ne savait où il se trouvait, jusqu'à ce que Taven le déniche dans une des grottes du NetherRealm. Voyant l'homme arriver, <b>Meat</b> lui lança quelques pièces et s'enfuit.</p><p><b>Meat</b> n'a aucun allié ni ennemi, et il était complètement en dehors de tous les évènements majeurs, du 20ème tournoi à la résurrection d'Onaga.  Durant l'Armageddon, <b>Meat</b> vit en Blaze l'opportunité d'acquérir un plus grand pouvoir et l'espoir d'enfin compléter son corps. Il commença alors l'ascension de la Pyramide d'Argus, mais perdit la vie.</p>",
+        "alternative": ""
+    },
+    "_techniques": {
+        "style1": "catch",
+        "style2": "",
+        "style3": ""
+    },
+    "_armes": {
+        "arme1": "couperet",
+        "arme2": "",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "Lors du développement des fatalités de Mortal Kombat 4, Tony Goskie avait besoin d'un modèle de corps ensanglanté. Il en créa un et le surnomma <b>Meat</b> (viande). Il fut finalement décidé qu'il serait un personnage caché et ce n'est que dans MK Armageddon que <b>Meat</b> devint un personnage à part entière.",
+        "info2": "Dans un des défis de la Challenge Tower de Mortal Kombat 9 sur PS Vita, le joueur incarne un Johnny Cage brûlé vif par Scorpion. Son apparence fait clairement penser à <b>Meat</b>.",
+        "info3": ""
+    }
+  },   
+  {
+    "_id": {
+      "id": "036",
+      "nom": "Mileena",
+      "camp": "Mal",
+      "race": "Tarkatan / Edenianne",
+      "clan":  "",
+      "origine": "OutWorld",
+      "residence": "OutWorld"
+    },
+    "_pics": {
+        "avatar": "avatar.png",
+        "small": "small.png",
+        "game1": "game1.png",
+        "game2": "game2.png",
+        "game3": "game3.png",
+        "game4": "game4.png",
+        "game5": "",
+        "game6": "",    
+        "game7": "",
+        "game8": "",
+        "game9": "",          
+        "ingame1": "",
+        "ingame2": "",
+        "ingame3": ""
+    },    
+    "_bio": {
+        "longue": "<p>Lorsque SHAO KAHN tua le Roi d'EDENIA Jerrod et s'empara du trône, il prit aussi sa femme SINDEL et sa fille KITANA. Cette dernière fut élevée par Kahn comme sa propre fille, mais il craignit qu'elle n'apprenne un jour la vérité sur l'identité de son  vrai père. Kahn demanda alors à SHANG TSUNG de créer un clone de Kitana en utilisant du sang de Tarkatan : <b>MILEENA</b> nacquit. Cependant, une altération génétique changea sa bouche en celle d'une femelle Tarkatan, la rendant hideuse. Crée initialement pour remplacer Kitana, <b>Mileena</b> eut une nouveau mission : surveiller les agissements de la princesse et s'assurer qu'elle ne découvre jamais la vérité.</p><p>Malheureusement, Kitana parvint à découvrir la vérité mais feignit toujours l'allégeance envers Kahn, attendant le moment propice pour se rébeller. Lorsqu'il découvrit que la princesse complota avec les guerriers de l'EARTHREALM, Kahn envoya <b>Mileena</b> la tuer, mais Kitana prit le dessus et tua sa <i>soeur jumelle</i>, cette dernière se retrouvant au NETHERREALM pour ses actes.</p><p>Dans ce royaume, <b>Mileena</b> nourrit une haine encore plus intense envers Kitana. Cette agressivité interpella SHINNOK, le maître des lieux, et il décida d'enrôler <b>Mileena</b> dans ses rangs. Elle et NOOB SAIBOT furent renvoyés sur EarthRealm afin d'espionner les agissements de Kahn durant son invasion. Kahn vaincu, la voie fut ouverte pour Shinnok de commencer son invasion des Royaumes, en commençant par Edenia. <b>Mileena</b> se battit aux côtés de Shinnok jusqu'à sa défaite, après quoi elle se vit enfermée dans les donjons d'Edenia par Kitana en personne.</p><p>Des années passèrent durant lesquelles <b>Mileena</b> resta emprisonnée, jusqu'au jour où BARAKA, travaillant pour ONAGA, la retrouva et la libéra. Le Tarkatan lui expliqua sa venue :  son nouveau maître, le Roi Dragon fut ressuscité et élimina les guerriers de l'EarthRealm, Kitana y compris. Pour ne pas éveiller les soupçons sur la disparition de cette dernière, Onaga pensa à <b>Mileena</b> pour la remplacer à la tête des armées d'Edenia.</p><p>Prenant son rôle à coeur au départ, <b>Mileena</b> décida par la suite de trahir Onaga et de se servir de cette armée pour ses propres desseins. Elle décida donc de partir à l'assaut de la forteresse de Kahn, qu'elle parvint à prendre, s'emparant du trône par la même occasion. Se pensant seule impératrice d'OutWorld désormais, <b>Mileena</b> n'eut guère le temps d'en profiter puisque Shao Kahn, accompagné de GORO et Shang Tsung, s'allièrent pour aider le premier à récupérer son trône justement. Ne faisant pas le poids face au trio, <b>Mileena</b> se rendit et jura allégeance à Kahn à nouveau.</p><p>Pour sa première mission, Kahn ordonna à <i>sa fille</i> de capturer SHUJINKO afin de s'en servir pour acheter la confiance d'Onaga. Une fois sa mission accomplie, <b>Mileena</b> considéra que son rôle de pion, qu'elle porta depuis tant d'années, dut cesser. OUTWORLD étant hors d'atteinte, <b>Mileena</b> décida de retourner à Edenia pour tenter de le conquérir. Mais avant cela, la bataille de l'Armageddon approchant, <b>Mileena</b> rejoint les Forces de l'Ombre dans l'espoir d'obtenir le pouvoir de BLAZE pour elle. Cependant, elle fut tuée comme la quasi-totalité des combattants présents.</p>",
+        "alternative": ""
+    },
+    "_techniques": {
+        "style1": "Ying Yeung",
+        "style2": "Mian Chuan",
+        "style3": ""
+    },
+    "_armes": {
+        "arme1": "Saï",
+        "arme2": "Epée Longue",
+        "arme3": "" 
+    },
+    "_infos": {
+        "info1": "L'origine du nom <b>Mileena</b> proviendrait du Tchèque <i>Milena</i> signifiant <i>favorite</i>, un adjectif collant bien au personnage.",
+        "info2": "Elle est la première création de Shang Tsung pour Shao Kahn, suivie par Ermac et Skarlet.",
+        "info3": ""
+    }
+  }      
+]
